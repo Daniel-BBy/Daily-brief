@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-01T00:18:18.792Z",
+  "date": "2026-11-01",
+  "stats": {
+    "raw": 155,
+    "inWindow": 95,
+    "relevant": 24,
+    "deduped": 24,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 4047,
+    "completion_tokens": 758,
+    "total_tokens": 4805,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4047
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "五大科技巨头承诺AI基建投入超3万亿美元",
+      "summary": "据彭博社报道，Alphabet、Meta、微软、亚马逊和甲骨文承诺未来数年在数据中心等领域投入超过3万亿美元。谷歌合同承诺总额超1万亿美元，接近一年前的八倍；Meta未来支出总额超8000亿美元。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/632.htm",
+      "publishedAt": "2026-10-31T15:56:00.000Z",
+      "originalTitle": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
+      "score": 7.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "融资收购",
+      "title": "OpenAI据报下调新一轮融资目标",
+      "summary": "据多家媒体报道，OpenAI最新一轮融资未达预期。此前报道称其以1.4万亿美元估值融资300亿美元，随后估值变为1.25万亿美元。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "publishedAt": "2026-10-31T16:12:55.000Z",
+      "originalTitle": "OpenAI reportedly lowers funding target for new round",
+      "score": 5.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "OpenAI宣布12月起ChatGPT与Codex共享额度",
+      "summary": "OpenAI公告称，从12月开始，Plus、Pro及Business订阅用户在ChatGPT与Codex之间共享统一使用额度，用量统一按Token计量，即时对话不占额度。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/645.htm",
+      "publishedAt": "2026-10-31T23:58:31.000Z",
+      "originalTitle": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "消息称Meta与傅利叶合作打造人形机器人原型",
+      "summary": "据The Information报道，Meta与中国企业傅利叶合作打造名为Max的人形机器人原型，研发用时三个月，搭载英伟达Thor芯片。扎克伯格视其为Muse模型的物理化身，双方9月已启动Max 2研发。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/636.htm",
+      "publishedAt": "2026-10-31T23:12:21.000Z",
+      "originalTitle": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
+      "score": 8,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Anthropic取消Claude五小时使用限制",
+      "summary": "Anthropic调整两个高价订阅档位，Max 5x仅简化名称，原Max 20x更名为Ultra。Ultra订阅用户可解除五小时限制，多数现有Ultra用户已陆续获得调整，新账号需先通过验证。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/10/506855.html",
+      "publishedAt": "2026-10-31T05:05:29.000Z",
+      "originalTitle": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "score": 6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Spotify计划明年初推出AI音乐混音服务",
+      "summary": "据金融时报消息，Spotify计划在2027年第一季度推出AI驱动服务，允许用户自制歌曲混音与翻唱版本，可能在2月格莱美奖前后亮相。Spotify考虑向订阅用户每月额外收取4至5美元。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/647.htm",
+      "publishedAt": "2026-11-01T00:12:26.000Z",
+      "originalTitle": "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本",
+      "score": 6.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "DeepSeek提出Super-agent双层架构设计",
+      "summary": "DeepSeek Harness团队发布文章，介绍Super-agent架构设计思路，指出Agent系统需向持续在线、并行处理多项任务的自主协作者演进。现有设计以单一Session为单位，用户通常只能同时跟进3至5个活跃Session。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/615.htm",
+      "publishedAt": "2026-10-31T13:36:35.000Z",
+      "originalTitle": "DeepSeek 提出 Super-agent 架构设计：Router 与 Worker 双层架构，探索更自主的 Agent 系统",
+      "score": 7,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "具身智能",
+      "title": "微信支付智慧经营机器人首次进店",
+      "summary": "10月29日广东7-ELEVEN第2000家门店在深圳腾讯总部园区开业，一台印有微信支付标识的智慧经营机器人首次进店，支持迎宾、导购、点单。该机器人基于腾讯混元打造，搭载腾讯天籁inside音频方案。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/637.htm",
+      "publishedAt": "2026-10-31T23:16:13.000Z",
+      "originalTitle": "微信支付智慧经营机器人首次进店：支持迎宾、导购、点单等，基于腾讯混元打造",
+      "score": 8,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "世界模型首次指导设计芯片X7 Ultra",
+      "summary": "芯片公司X7 Ultra公开亮相，算力700 TOPS，NPU计算利用率达98.7%。官方称对比行业旗舰产品，内存带宽消耗降低80%，能效提升100%。Momenta出现在这家成立两年多公司的首次公开亮相中。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "publishedAt": "2026-10-31T05:11:19.000Z",
+      "originalTitle": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "研究团队称可通过链接接管ChatGPT账户",
+      "summary": "研究团队称绕过ChatGPT沙箱与内容安全策略，通过发送链接即可接管他人账户。2026年10月，他们发现可将公开的ChatGPT分享变成在打开者已登录会话中运行的攻击者控制JavaScript。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "publishedAt": "2026-10-31T10:30:11.000Z",
+      "originalTitle": "Do the math: How we took over ChatGPT accounts",
+      "score": 4.7,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
