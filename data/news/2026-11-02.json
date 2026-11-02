@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-02T00:59:05.966Z",
+  "date": "2026-11-02",
+  "stats": {
+    "raw": 155,
+    "inWindow": 87,
+    "relevant": 18,
+    "deduped": 18,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 4561,
+    "completion_tokens": 797,
+    "total_tokens": 5358,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4561
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "现代汽车投资9万亿韩元建AI谷并设新公司",
+      "summary": "现代汽车集团宣布启用新办事处，推进新万金人工智能数据中心建设，该项目投资约9万亿韩元。集团计划11月联合五家核心子公司再设两家专项公司，分别负责基建工程与GPU算力服务运营。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/864.htm",
+      "publishedAt": "2026-11-02T00:57:15.000Z",
+      "originalTitle": "现代汽车集团投资约 9 万亿韩元打造 AI 谷进展：计划成立两家新公司，分别负责 AI 基础设施建设与 GPU 算力服务运营",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "融资收购",
+      "title": "沙特阿美收购HUMAIN 49%股份",
+      "summary": "沙特阿美将收购人工智能初创企业HUMAIN 49%的股份，PIF保留剩余51%。沙特阿美计划通过转让关键人工智能资产并注资约99亿沙特里亚尔完成这笔投资，两家股东将贡献各自的人工智能资产与人才。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/863.htm",
+      "publishedAt": "2026-11-02T00:44:35.000Z",
+      "originalTitle": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "OpenAI等四家公司联手推行AI抓取退出标准",
+      "summary": "OpenAI、谷歌、微软和Anthropic宣布采用一项新标准，内容发布方可一次性向多家AI企业统一申明内容使用偏好。该标准由Anthropic技术负责人向IETF提出，将集成在网站的robots.txt文件中。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/837.htm",
+      "publishedAt": "2026-11-01T14:19:52.000Z",
+      "originalTitle": "OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "我国人工智能推理数据量首次超过训练数据量",
+      "summary": "赛迪研究院报告显示，我国人工智能推理数据量首次超过训练数据量，标志从模型训练研发阶段迈入规模化产业应用阶段。截至2026年6月，日均词元调用量超过175万亿，相比2024年年初增长1000多倍。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/809.htm",
+      "publishedAt": "2026-11-01T10:46:02.000Z",
+      "originalTitle": "工信部赛迪研究院：我国人工智能推理数据量首超训练数据量，截至 6 月日均词元调用量超 175 万亿",
+      "score": 7.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "特拉华州拟允许AI智能体创办运营企业",
+      "summary": "美国特拉华州计划放宽商业监管规定，允许AI智能体运营的企业注册成立，并为AIC设定30个月监管沙盒。众议院监督委员会主席科默已致信州长表达反对，担忧AI企业及投资者借此免于承担责任。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/858.htm",
+      "publishedAt": "2026-11-02T00:18:05.000Z",
+      "originalTitle": "美国特拉华州拟允许 AI 智能体创办、运营企业",
+      "score": 8,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "思科目标两年内用AI重写98%遗留代码",
+      "summary": "思科总裁兼首席产品官帕特尔透露，已指派一位27岁工程师在24个月内利用AI重构重写公司98%的遗留代码，并向其提供无上限的Token预算。该工程师名为克里希那穆提。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/857.htm",
+      "publishedAt": "2026-11-02T00:17:13.000Z",
+      "originalTitle": "思科给 1 位年轻工程师无上限 Token 预算，最终目标 2 年内利用 AI 重写 98% 的遗留代码",
+      "score": 6.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "微软AI负责人称AI模型没有意识",
+      "summary": "微软AI负责人苏莱曼在X平台发布长文，称目前的AI模型并不具备意识，人们应让这种情况一直保持下去。他表示若开发具有意识的AI是可能的，这么做将是鲁莽的，并呼吁在出现意识迹象时暂停开发。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/020/848.htm",
+      "publishedAt": "2026-11-01T23:36:08.000Z",
+      "originalTitle": "微软 AI 负责人苏莱曼：AI 模型没有意识，我们应确保它永远如此",
+      "score": 6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "清华姚期智团队提出代数世界模型",
+      "summary": "清华大学姚期智和袁洋领导的团队提出代数世界模型AWM，探索让AI从观察和实验出发理解世界。团队以ARC-AGI-3游戏集为例，指出模型生成的规则只描述现象，未抓住规律。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "publishedAt": "2026-11-01T08:02:37.000Z",
+      "originalTitle": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "score": 5.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "开源逆向工程智能体框架REA获20万Star",
+      "summary": "开源项目Reverse Engineer Anything（REA）在GitHub上已获超过20万个Star。它通过MCP协议桥接Claude Code、Codex与Ghidra、Hopper、IDA等工具，支持对二进制等程序的自动化静态分析与假设验证。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-01T17:00:00.000Z",
+      "originalTitle": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
+      "score": 5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Grafana提出用SLO和错误预算衡量AI智能体",
+      "summary": "Grafana Labs提出使用评估、服务级别目标和错误预算，将幻觉、任务完成度、毒性和成本等行为转化为可衡量目标并持续监控。该方法针对传统可观测性无法判断智能体答案是否正确、是否有据可依的局限。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-01T10:00:00.000Z",
+      "originalTitle": "如果 AI 幻觉也有预算，超支之后该怎么办？",
+      "score": 4.5,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
