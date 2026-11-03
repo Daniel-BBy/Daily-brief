@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-03T03:00:27.067Z",
+  "date": "2026-11-03",
+  "stats": {
+    "raw": 135,
+    "inWindow": 98,
+    "relevant": 43,
+    "deduped": 43,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:✗"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 4410,
+    "completion_tokens": 746,
+    "total_tokens": 5156,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4410
+  },
+  "items": [
+    {
+      "category": "融资收购",
+      "title": "科技股暴跌拖累Anthropic IPO估值预期下调",
+      "summary": "据《华尔街日报》报道，科技股暴跌改变机构投资者对Anthropic IPO的估值判断，投资者表示本月晚些时候IPO估值应在1.5万亿至1.6万亿美元之间，远低于此前接近2万亿美元的水平。上周纳斯达克指数从高点回落约10%。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/021/299.htm",
+      "publishedAt": "2026-11-02T23:44:35.000Z",
+      "originalTitle": "科技股暴跌拖累 Anthropic“史上最大 IPO”估值，预期已从 2 万亿美元降至 1.5 万亿区间",
+      "score": 9.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "OpenAI发布LifeVal基准测试AI日常事务能力",
+      "summary": "OpenAI于11月2日发布名为LifeVal的新基准，衡量AI模型能否帮助普通人完成日常事务。任务覆盖照护、健康、教育、家庭行政、个人财务、购物及获取政府服务等场景，更关注任务能否推进到可执行、可交付状态。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/021/336.htm",
+      "publishedAt": "2026-11-03T01:54:54.000Z",
+      "originalTitle": "OpenAI 发布 LifeVal 基准：从选幼儿园到报税，测试 AI 的“人间烟火”技能",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "OpenAI下一代模型GPT-6.2 Astra疑似灰度测试",
+      "summary": "大量用户反馈OpenAI下一代模型GPT-6.2 Astra疑似进入小范围测试，部分Codex用户使用量统计中出现独立模型标识「gpt-6.2-astra」，其中一个账户占比达19.8%。OpenAI官方API目录、更新日志及公告均未确认该型号。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/021/352.htm",
+      "publishedAt": "2026-11-03T02:32:47.000Z",
+      "originalTitle": "OpenAI 下一代 GPT-6.2 Astra 正灰度测试，Codex 用量统计中已单独列出",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "MIT研究：GPT-6 Astra可直接修改Qwen权重",
+      "summary": "研究者让Astra在放置Qwen3.5-0.8B全部权重的Python环境中直接分析并修改神经网络权重，仅改动0.016%的权重，MATH-500得分从7.9%升至48.1%，数学运算能力约为原来的6倍。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "publishedAt": "2026-11-03T01:57:30.000Z",
+      "originalTitle": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "score": 7.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "苹果2026财年研发费用457.65亿美元创新高",
+      "summary": "苹果2026财年研发费用为457.65亿美元，同比增长32.46%，创历史新高；第四财季研发费用117.30亿美元，上年同期为88.66亿美元，同比增长约32.3%。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/021/351.htm",
+      "publishedAt": "2026-11-03T02:30:58.000Z",
+      "originalTitle": "豪掷 457.65 亿美元：苹果 2026 财年研发费用同比增 32% 创历史新高，加码 AI 投入",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "百度搜索AI API千次4.9元 低于DeepSeek",
+      "summary": "百度升级搜索AI API，增强版接口活动期间最低4.9元/千次，旗舰版9.9元/千次，百度称该价格低于DeepSeek搜索API。百度还开放API、MCP、Skill等多种接入方式，希望扩大搜索能力在Agent中的使用。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-02T09:12:15.000Z",
+      "originalTitle": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "爱诗科技PixVerse与OpenAI推出产品集成与教育计划",
+      "summary": "爱诗科技旗下模型和开放平台PixVerse与OpenAI宣布开启深度合作，完成一系列产品集成，并首次共同推出“从提示词到成片”教育计划，通过线上研讨会和系列视频帮助海外创作者将创意转化为内容。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/507313.html",
+      "publishedAt": "2026-11-03T01:46:55.000Z",
+      "originalTitle": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+      "score": 9.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "纽约时报起诉Brave浏览器AI抓取及绕过付费墙",
+      "summary": "《纽约时报》起诉Brave浏览器，指控其进行AI抓取并绕过付费墙。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "publishedAt": "2026-11-02T17:51:19.000Z",
+      "originalTitle": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "score": 5.4,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Anthropic警告接近RSI自我构建AI能力",
+      "summary": "Anthropic警告称其已非常接近RSI能力，即自我构建AI的能力。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "publishedAt": "2026-11-02T22:14:50.000Z",
+      "originalTitle": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "score": 8.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "Trajectory融资4500万美元降低AI模型训练门槛",
+      "summary": "Trajectory完成4500万美元融资，目标是让非技术专家也能参与AI模型训练。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "publishedAt": "2026-11-02T23:13:53.000Z",
+      "originalTitle": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "score": 7.1,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
