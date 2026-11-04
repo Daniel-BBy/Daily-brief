@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-04T01:34:40.526Z",
+  "date": "2026-11-04",
+  "stats": {
+    "raw": 155,
+    "inWindow": 130,
+    "relevant": 45,
+    "deduped": 45,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3818,
+    "completion_tokens": 727,
+    "total_tokens": 4545,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3818
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "ChatGPT周活跃用户达12亿，两月增2亿",
+      "summary": "OpenAI消费者产品负责人Adam Fry透露，ChatGPT周活跃用户已达12亿，过去60天从10亿增长至12亿，约每30天增加1亿。ChatGPT搜索类查询量约为谷歌的五分之一，每周生成图片15亿张，语音功能周活跃用户2.5亿。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/021/878.htm",
+      "publishedAt": "2026-11-03T22:39:56.000Z",
+      "originalTitle": "OpenAI ChatGPT 最新数据：周活跃用户达 12 亿，两个月新增 2 亿",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "谷歌优先保障Gemini算力，云业务让渡收益",
+      "summary": "皮查伊在长访谈中表示，谷歌内部AI编码比例已不再作为核心指标，转而聚焦代码变更量提升30%、回滚减少三分之一等实效指标。Gemini 4 Argon上线初期Token消耗达25万亿，算力优先保障AI研发。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-03T10:45:58.000Z",
+      "originalTitle": "谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "AI推理创企Fal估值翻倍至160亿美元",
+      "summary": "旧金山初创公司Fal主营AI视频、图像和音频模型的托管与运行，在最新一轮融资中筹集13亿美元，由Bessemer Venture Partners领投，英伟达、Sound Ventures等参投，估值翻倍至160亿美元。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "publishedAt": "2026-11-03T19:34:43.000Z",
+      "originalTitle": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "score": 7.1,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "美科技巨头AI隐性债务半年增90%至3.2万亿",
+      "summary": "美国科技巨头与人工智能相关义务产生的表外债务持续膨胀，六个月内几乎翻倍至约3.2万亿美元。这些承诺与义务已达到其资产的80%。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "publishedAt": "2026-11-03T21:26:44.000Z",
+      "originalTitle": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "score": 6.7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "百度披露Apollo World世界模型",
+      "summary": "11月3日百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型“2+3”判断标准。该模型已用于萝卜快跑全球化测试与验证。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-03T21:26:32.000Z",
+      "originalTitle": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+      "score": 6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "谷歌调整K-12教育AI政策，默认关闭",
+      "summary": "谷歌宣布自2027年起调整面向K-12教育用户的AI功能管理政策，学校管理员需主动启用，学生账户才能使用Gemini、NotebookLM、Gemini in Classroom及Google Search等服务。若学校全面禁用AI，学生也将无法使用Google Search。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/021/880.htm",
+      "publishedAt": "2026-11-03T22:47:23.000Z",
+      "originalTitle": "谷歌调整 K-12 教育 AI 政策：Gemini、搜索等服务默认关闭",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "苹果开始让Siri接入第三方应用AI能力",
+      "summary": "苹果开始向Siri开放第三方应用的AI访问能力。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "publishedAt": "2026-11-03T20:16:17.000Z",
+      "originalTitle": "Apple starts giving Siri AI access to third-party apps",
+      "score": 6.4,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "Anthropic研发验证AI模型身份的开源系统",
+      "summary": "Anthropic正在研发一套开源系统，用于验证AI模型的身份。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "publishedAt": "2026-11-03T22:41:03.000Z",
+      "originalTitle": "Anthropic is working on a system to prove AI models’ identity",
+      "score": 8.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "极智嘉发布24/7自主智能仓计划",
+      "summary": "全球智能机器人企业极智嘉正式亮出《24/7自主智能仓计划》，目标直指物理AI时代的自进化智能仓，让AI接管整座仓库，实现7×24小时自主运行，并在真实业务中持续学习、自主进化。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "publishedAt": "2026-11-03T13:57:11.000Z",
+      "originalTitle": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "score": 8,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "OpenAI证实ChatGPT搜索查询量达谷歌20%",
+      "summary": "ChatGPT消费者产品负责人亚当·弗莱证实，ChatGPT上的搜索类查询量约相当于谷歌搜索查询量的20%。皮尤研究中心调查显示，42%的美国受访者曾用AI搜索信息，44%的美国成年人使用过ChatGPT。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/021/885.htm",
+      "publishedAt": "2026-11-03T23:16:23.000Z",
+      "originalTitle": "OpenAI 证实：ChatGPT 搜索查询量已达谷歌 20%",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    }
+  ]
+}
