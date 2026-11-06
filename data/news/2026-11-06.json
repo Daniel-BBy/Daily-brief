@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-06T01:43:09.843Z",
+  "date": "2026-11-06",
+  "stats": {
+    "raw": 154,
+    "inWindow": 118,
+    "relevant": 49,
+    "deduped": 49,
+    "feeds": [
+      "IT之家:60",
+      "量子位:9",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3657,
+    "completion_tokens": 831,
+    "total_tokens": 4488,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3657
+  },
+  "items": [
+    {
+      "category": "产品发布",
+      "title": "OpenAI发布网络安全模型GPT-6 Cyber",
+      "summary": "OpenAI推出网络安全专用模型GPT-6 Cyber，在ExploitGym测试中得分48.5%，较GPT-5.6 Cyber相对提升约51%。研究人员用它复现1724个Linux内核漏洞，并为其中948个开发出可用的权限提升利用程序。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/038.htm",
+      "publishedAt": "2026-11-05T23:22:55.000Z",
+      "originalTitle": "OpenAI 最强网安 AI 模型：GPT-6 Cyber 登场，性能提高 51%、发现火狐 Firefox 浏览器 81 个新漏洞",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "开源",
+      "title": "百度开源文心5.5 Flash Base基座模型",
+      "summary": "百度正式开源文心5.5 Flash Base，采用MoE架构，总参数2800亿，每Token激活140亿参数，预训练使用33.5万亿Token。该模型在知识、推理、数学、代码、多语言和长上下文等基准测试中取得同尺寸模型SOTA。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/507787.html",
+      "publishedAt": "2026-11-05T07:15:13.000Z",
+      "originalTitle": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "英伟达提出全栈协同设计破解AI内存瓶颈",
+      "summary": "英伟达发布技术解读，指出HBM供应趋紧、价格上升将持续，为此引入全栈协同设计理念，将GPU、CPU、网络、存储和软件作为整体协同设计。其称HBM仅增约3%时，每美元智能体吞吐量最高提升30倍。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/025.htm",
+      "publishedAt": "2026-11-05T23:30:40.000Z",
+      "originalTitle": "英伟达破局 AI 内存瓶颈：HBM 仅增约 3%，每美元智能体吞吐量最高提升 30 倍",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "英伟达公布Vera CPU智能体实测数据",
+      "summary": "英伟达公布将于2026年3月16日发布的Vera CPU在智能体工作负载上的实测数据。在100兆瓦数据中心场景下，其每瓦可支持1.6倍于最快x86 CPU的智能体数量，智能体速度较能效最高的x86 CPU提升2倍。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/029.htm",
+      "publishedAt": "2026-11-05T23:09:21.000Z",
+      "originalTitle": "AI 时代最强“芯脏”：英伟达实测 Vera CPU，较最快 x86 CPU 每瓦多跑 60% 智能体",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "GPT-Image-2.6全量上线支持GIF和SVG",
+      "summary": "GPT-Image-2.6在ChatGPT、Codex及API全量上线，全线免费及付费用户均可使用。整体生成时间缩短50%，最快6秒出图，原生支持生成GIF动图并可直接导出SVG矢量格式。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/507707.html",
+      "publishedAt": "2026-11-05T01:59:37.000Z",
+      "originalTitle": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "Gemini 4 Argon无人值守优化谷歌ADK代码库",
+      "summary": "谷歌介绍Gemini 4 Argon一次11小时无人值守运行，为含800文件、20万行代码的ADK代码库产出两项被采纳的优化。长会话内存准备开销降低约40%，冷启动包导入时间缩短21%。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "originalTitle": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Claude Code产品负责人Cat Wu加入OpenAI",
+      "summary": "Claude Code核心产品负责人Cat Wu已从Anthropic离职并加入OpenAI，将负责核心产品管理。她曾主导Claude Code从内部工具演进为面向开发者的正式产品，并参与Cowork项目。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-05T16:53:21.000Z",
+      "originalTitle": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "腾讯发布开源大模型Hy4",
+      "summary": "腾讯宣布发布最新一代大语言模型Tencent Hy4，称其性能与能力显著跃升，跻身全球领先开源AI模型之列。腾讯Hy计划在未来几天发布模型权重和系统卡。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "publishedAt": "2026-11-05T20:21:43.000Z",
+      "originalTitle": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "score": 6.7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Anthropic的Claude可直接接入银行账户",
+      "summary": "The Verge报道，Anthropic的Claude AI可直接接入用户的银行账户。报道未在正文开头给出更多功能细节。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "publishedAt": "2026-11-05T18:00:00.000Z",
+      "originalTitle": "Claude AI can plug directly into your bank account",
+      "score": 7.4,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Meta向美国用户开放Muse AI头像视频通话",
+      "summary": "Meta宣布美国用户现在可以与旗下消费级AI智能体Muse进行视频通话。该功能名为Muse Voice，允许用户呼叫并与Muse视频聊天。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "publishedAt": "2026-11-05T19:48:28.000Z",
+      "originalTitle": "Meta says US users can now video chat with their Muse AI avatar",
+      "score": 6.6,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
