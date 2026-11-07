@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-07T01:03:52.893Z",
+  "date": "2026-11-07",
+  "stats": {
+    "raw": 155,
+    "inWindow": 120,
+    "relevant": 48,
+    "deduped": 48,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3809,
+    "completion_tokens": 693,
+    "total_tokens": 4502,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3809
+  },
+  "items": [
+    {
+      "category": "融资收购",
+      "title": "OpenAI完成110亿美元首期新融资",
+      "summary": "OpenAI新一轮融资已完成约110亿美元首期款项，对公司估值为1.25万亿美元。本轮融资剩余部分预计未来几周完成，总额最高可能达200亿美元。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/612.htm",
+      "publishedAt": "2026-11-06T23:24:12.000Z",
+      "originalTitle": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
+      "score": 9.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "微软不再续签甲骨文AI算力租赁协议",
+      "summary": "微软已决定不再续签与甲骨文的AI算力租赁合同，并开始关闭部分租用资源。甲骨文提供的服务器使用较早一代英伟达GPU，微软正重新评估数十亿美元云合作。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/606.htm",
+      "publishedAt": "2026-11-06T22:44:15.000Z",
+      "originalTitle": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "开源",
+      "title": "谷歌与Meta开源TorchTPU",
+      "summary": "在2026年PyTorch北美大会上，谷歌和Meta开源了TorchTPU，这是TPU的原生PyTorch后端。它取代需侵入式修改的PyTorch/XLA，支持LLM推理负载在TPU上规模化部署。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/5s2oa0BLlgR8fplkq2uK?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-06T11:17:27.000Z",
+      "originalTitle": "2026 年 PyTorch 大会：谷歌和 Meta 开源 TorchTPU，在 TPU 上原生支持 PyTorch",
+      "score": 5.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "Anthropic研究智能体记忆与做梦机制",
+      "summary": "Anthropic发布研究文章，拆解Claude智能体跨会话记忆、筛选、纠错和整理知识的机制。研究引入做梦机制，让模型在空闲时间回顾日志、修正错误并更新知识库。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/613.htm",
+      "publishedAt": "2026-11-06T23:25:14.000Z",
+      "originalTitle": "Anthropic 研究称 Claude AI 智能体可以靠“做梦”变得更聪明",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "谷歌扩大多国自愿离职计划",
+      "summary": "谷歌今年将自愿离职计划扩大至加拿大、法国、德国、日本和瑞士等多个国家，瑞士员工补偿最高可达12个月工资。此举背景是AI基建投入激增导致现金流承压。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "originalTitle": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "Palo Alto Networks洽谈收购Clutch",
+      "summary": "Palo Alto Networks正洽谈以5亿美元收购AI智能体安全初创公司Clutch。报道未披露交易的其他细节。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "publishedAt": "2026-11-06T06:28:32.000Z",
+      "originalTitle": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "score": 7.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "DigitalOcean推出智能体学习与数据服务",
+      "summary": "DigitalOcean发布Learning Services和Agent Data Services公开预览版，支持智能体基于自有数据持续学习、评估与迭代。新服务基于其Inference Engine和Managed Agents构建。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-06T15:25:00.000Z",
+      "originalTitle": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "score": 7.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "墨芯5个月内再融近10亿元",
+      "summary": "距上一轮近10亿元融资仅过去5个月，墨芯短时间内连续完成两轮融资。公司专注专用稀疏推理芯片，受益于大模型稀疏计算需求。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/508155.html",
+      "publishedAt": "2026-11-06T07:00:29.000Z",
+      "originalTitle": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "阿里巴巴发布2026 AI向善行动报告",
+      "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》，共26个案例，涵盖教育、医疗、环保、科研等领域。数据中心可持续发展和AI+医疗创新成果受到关注。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/508165.html",
+      "publishedAt": "2026-11-06T09:19:00.000Z",
+      "originalTitle": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "Anthropic IPO买家估值低至1.1万亿美元",
+      "summary": "报道称Anthropic IPO的买家认为其估值最低可至1.1万亿美元。该消息发布于11月6日。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "publishedAt": "2026-11-06T16:54:36.000Z",
+      "originalTitle": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "score": 6.2,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
