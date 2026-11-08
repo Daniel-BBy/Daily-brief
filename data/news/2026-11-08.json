@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-08T00:51:29.676Z",
+  "date": "2026-11-08",
+  "stats": {
+    "raw": 154,
+    "inWindow": 93,
+    "relevant": 16,
+    "deduped": 16,
+    "feeds": [
+      "IT之家:60",
+      "量子位:9",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3490,
+    "completion_tokens": 894,
+    "total_tokens": 4384,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3490
+  },
+  "items": [
+    {
+      "category": "融资收购",
+      "title": "Anthropic 推进感恩节前 IPO，拟募资至多 1000 亿美元",
+      "summary": "据《金融时报》报道，Anthropic 仍计划在感恩节前进行 IPO，预计募资 800 亿至 1000 亿美元，目标估值 1.25 万亿至 1.75 万亿美元。投资者称公司已做好接受低于乐观预期估值的准备。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/854.htm",
+      "publishedAt": "2026-11-08T00:44:04.000Z",
+      "originalTitle": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "英伟达提供数十亿美元支持日月光扩产 CoWoS 封装",
+      "summary": "据路透社报道，因台积电产能吃紧，英伟达提供数十亿美元支持日月光扩产 CoWoS 先进封装。Yole Group 预测先进封装市场 2026 年将首次超越传统封装，相关资本支出预计逼近 280 亿美元。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/814.htm",
+      "publishedAt": "2026-11-07T13:50:41.000Z",
+      "originalTitle": "消息称因台积电产能吃紧，英伟达提供数十亿美元支持日月光扩产 CoWoS 先进封装",
+      "score": 5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "GitHub 推出新 Git 存储架构 Rubicon",
+      "summary": "GitHub 在 Universe 大会上公布代号 Rubicon 的全新 Git 存储架构，内部压测显示单仓库可支持 5000 个智能体并发协作，每秒处理 7200 次推送。该架构已开启小范围定向内测，计划明年初逐步扩大开放。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/823.htm",
+      "publishedAt": "2026-11-07T14:57:23.000Z",
+      "originalTitle": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
+      "score": 6,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "法官裁定 Anthropic 须继续应对 Claude Max 额度诉讼",
+      "summary": "美国联邦治安法官谢文辉裁定，Anthropic 必须继续应对 Claude Max 套餐使用额度涉嫌误导消费者的主要指控，其他几项诉求被驳回。原告计算称 200 美元套餐每周额度仅为 Pro 套餐的 6 倍。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/824.htm",
+      "publishedAt": "2026-11-07T14:57:42.000Z",
+      "originalTitle": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
+      "score": 7,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "埃森哲报告被指含 15 条虚假引用与虚构案例",
+      "summary": "GPTZero 分析称，埃森哲与马德里 IE 大学合作发布的《跨越式发展》报告涉嫌包含 15 条虚假引用及完全虚构的案例研究。埃森哲否认相关错误由人工智能造成。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/845.htm",
+      "publishedAt": "2026-11-07T23:51:36.000Z",
+      "originalTitle": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
+      "score": 6,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "Claude Code 选项致密码泄露于 1122 个公开 GitHub 文件",
+      "summary": "Hacker News 讨论指出，Claude Code 的“Don't Ask Again”选项导致密码暴露在 1122 个公开的 GitHub 文件中。该帖获得 131 点积分和 96 条评论。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "publishedAt": "2026-11-07T20:45:32.000Z",
+      "originalTitle": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "score": 6.7,
+      "bodyMethod": "failed"
+    },
+    {
+      "category": "行业",
+      "title": "印度 IT 协会警告 AI 或致应届生更难入行",
+      "summary": "印度全国软件与服务公司协会会长拉杰什·南比亚尔警告，随着 AI 接手基础编程和软件测试，印度应届毕业生进入科技行业可能更加困难。他指出企业收费模式正从按人数计费转向按成果收费，高校需调整课程。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/023/813.htm",
+      "publishedAt": "2026-11-07T13:48:23.000Z",
+      "originalTitle": "印度 IT 行业领袖警告：AI 或致应届毕业生更难进入科技行业",
+      "score": 5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "微软研究院 AI Frontiers 团队被曝结束",
+      "summary": "Hacker News 讨论指出，微软研究院的 AI Frontiers 团队已结束。作者称 2023 年 ChatGPT 发布后，研究需要比微软研究院以往更组织化才能成功，单人推进的巧妙想法往往因速度不够而迟到且缺乏说服力。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://hunch.net/?p=13764006",
+      "publishedAt": "2026-11-07T18:02:17.000Z",
+      "originalTitle": "The end of Microsoft Research's AI Frontiers group",
+      "score": 5.2,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "AFK AI 称已实现 Super-agent 底层架构",
+      "summary": "DeepSeek Harness 团队发文提出下一代 Super-agent 架构设想，拥有连续上下文、可自主调度多个 Agent 并行工作并 7×24 小时在线。硅谷华人团队 AFK AI 称早在年初就把“单 Router+多 Worker”架构落地到产品 Comma。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/508264.html",
+      "publishedAt": "2026-11-07T05:01:17.000Z",
+      "originalTitle": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "score": 7.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "报道称美国允许英伟达向中国空办公室售芯片",
+      "summary": "The Verge 报道称，美国允许英伟达向中国的一间空办公室出售芯片。该报道归入 AI 新闻的政策类别。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "publishedAt": "2026-11-07T15:43:45.000Z",
+      "originalTitle": "The US let Nvidia sell chips to an empty office in China",
+      "score": 5.4,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
