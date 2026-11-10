@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-10T03:43:46.260Z",
+  "date": "2026-11-10",
+  "stats": {
+    "raw": 155,
+    "inWindow": 125,
+    "relevant": 45,
+    "deduped": 42,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3836,
+    "completion_tokens": 744,
+    "total_tokens": 4580,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3836
+  },
+  "items": [
+    {
+      "category": "融资收购",
+      "title": "Anthropic计划IPO募资至多693亿美元",
+      "summary": "路透社报道称Anthropic计划通过IPO募集至多693亿美元资金，规模仅略逊于SpaceX。股票预计11月19或20日开始交易，以ANT代码在纳斯达克上市。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/024/694.htm",
+      "publishedAt": "2026-11-10T02:28:54.000Z",
+      "originalTitle": "消息称 Anthropic 计划通过 IPO 募集至多 693 亿美元资金，规模锁定历史前二",
+      "score": 9,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "黄仁勋出轨丑闻致英伟达市值蒸发逾1900亿美元",
+      "summary": "英伟达CEO黄仁勋11月9日向员工发道歉信，承认出轨行为并向家人、员工、董事会及股东道歉。英伟达当日逆势大跌，收盘跌4.27%，市值一夜蒸发逾1900亿美元。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/024/722.htm",
+      "publishedAt": "2026-11-10T03:09:10.000Z",
+      "originalTitle": "黄仁勋出轨丑闻发酵，英伟达市值一夜蒸发逾 1900 亿美元",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "腾讯混元Hy4正式版发布并上线多款产品",
+      "summary": "腾讯混元Hy4从preview转为正式版，扩展了预训练和后训练的数据与训练规模，首次引入视觉理解。Hy4已在腾讯云TokenHub、WorkBuddy/CodeBuddy、元宝等产品上线，API接入OpenRouter等平台。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "publishedAt": "2026-11-09T08:44:00.000Z",
+      "originalTitle": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "score": 11,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Anthropic发布Claude Fable与Mythos 5.2模型",
+      "summary": "Anthropic推出新的Claude Fable和Mythos 5.2模型。据Artificial Analysis评测，Claude Fable 5.2在该榜单得分65，为目前最高。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "originalTitle": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "score": 7.9,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "千问办公2.0发布Team Agent协作功能",
+      "summary": "千问办公发布2.0版本，推出行业首个支持多人与Agent协作的功能“协作”，同时上线人机共创、资料空间、自动任务和三端互联等能力。所有功能已在客户端全量上线。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "publishedAt": "2026-11-09T08:34:03.000Z",
+      "originalTitle": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "OpenAI部署控制室系统35秒叫停失控智能体",
+      "summary": "OpenAI宣布在内部研究设施部署“控制室”系统，用于停止可能存在风险的AI任务。研究员启用任务需请求唯一任务ID，系统从收到停止指令到阻止任务继续的最长延迟为35秒。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/024/631.htm",
+      "publishedAt": "2026-11-10T02:05:45.000Z",
+      "originalTitle": "35 秒内“叫停”失控的 AI 智能体，OpenAI 部署“控制室”系统",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "Anthropic斥资34亿美元购买天然气涡轮机",
+      "summary": "Anthropic正花费34亿美元购买天然气涡轮机，采购Caterpillar发电机。该公司此前一般避免购买实体基础设施，目前正计划今年上市。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "publishedAt": "2026-11-09T16:56:54.000Z",
+      "originalTitle": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "score": 8.1,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "LobeHub开源AI协作平台实现Agent团队研发",
+      "summary": "LobeHub团队半年前开始用自家AI协作平台搞研发，让Agent派任务、写代码、排查Bug，并已开源。在30道软件工程任务中，其优化后的Agent Harness完成21道，通过率70%。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/508607.html",
+      "publishedAt": "2026-11-09T05:47:58.000Z",
+      "originalTitle": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Gartner发布2027年十大趋势聚焦智能体治理",
+      "summary": "Gartner研究副总裁高挺以“只有3秒钟记忆”比喻企业AI处境，指出模型聪明却不了解企业业务规则。Gartner 2027十大趋势聚焦智能体治理，核心转向上下文平台、身份管理与暴露修复等可控自主技术。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/CUgMFMX7uRJNMec1pfYo?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-09T16:55:59.000Z",
+      "originalTitle": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+      "score": 7.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "CoreWeave债券收益率突破16%反映AI信贷压力",
+      "summary": "CoreWeave债券收益率突破16%，显示AI数据中心建设者面临信贷压力上升。Jefferies全球股票策略主管Christopher Wood称，AI资本开支军备竞赛最可能的结束方式是信用卡被收回。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "publishedAt": "2026-11-10T03:20:06.000Z",
+      "originalTitle": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "score": 6.7,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
