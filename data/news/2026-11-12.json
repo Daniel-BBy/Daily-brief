@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-12T02:24:22.906Z",
+  "date": "2026-11-12",
+  "stats": {
+    "raw": 155,
+    "inWindow": 122,
+    "relevant": 51,
+    "deduped": 49,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3696,
+    "completion_tokens": 810,
+    "total_tokens": 4506,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3696
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "英伟达CEO黄仁勋被曝第二段婚外情，股价盘后跌逾9%",
+      "summary": "英伟达股价在11月11日美股盘后交易中跌幅一度扩大至9%，市值4.19万亿美元。黄仁勋被曝与一名直接汇报工作的员工存在私人关系，董事会准备罢免他的报道加剧了跌势。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/025/855.htm",
+      "publishedAt": "2026-11-12T00:36:34.000Z",
+      "originalTitle": "桃色丑闻重创 AI 芯片巨头：黄仁勋第二段婚外情曝光，英伟达盘后股价重挫逾 9%",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "谷歌Gemini 4 Carbon全面开放",
+      "summary": "谷歌CEO Pichai宣布旗舰模型Gemini 4 Carbon向开发者、企业、科研人员和消费者扩大开放。该模型在CursorBench 4.0、WANDR、AutomationBench三项Agent评测中均位列第一，任务完成成本较次优外部模型低超2倍。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-11T21:05:37.000Z",
+      "originalTitle": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Anthropic推出Claude Meetings等办公套件",
+      "summary": "Anthropic发布面向企业和知识工作者的Claude Meetings、Claude Whiteboards、Claude Sheets、Claude Data。其中Claude Meetings允许Claude以可见参与者身份加入视频会议并执行任务。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-11T20:52:45.000Z",
+      "originalTitle": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT",
+      "score": 8,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "谷歌推出Gemini Decisions API",
+      "summary": "谷歌宣布推出由Gemini Decision 1模型驱动的Gemini Decisions API，可在一次处理中对文本、图像、视频和PDF内容进行至多1000项是非判断、选项选择和标准评估，延迟150至250毫秒。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/025/858.htm",
+      "publishedAt": "2026-11-12T00:55:39.000Z",
+      "originalTitle": "谷歌推出 Gemini Decisions API 快速多模态决策，基于 Gemini Decision 1 模型",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "美联航禁止AI代理代客订机票",
+      "summary": "美联航周三表示，禁止人工智能代理代表旅客预订机票，理由是存在安全风险，且此类行为可能违反联邦规定。许多消费者正使用Meta的Muse和OpenAI的dots等AI代理完成订票等任务。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "publishedAt": "2026-11-11T21:24:35.000Z",
+      "originalTitle": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "score": 6.2,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "文心5.5 Flash Preview发布",
+      "summary": "文心5.5 Flash Preview总参数2800亿，单次推理仅激活140亿参数，支持百万Token上下文，生成速度超过每秒200Token。该模型可完成游戏开发、3D建模、视频编排等需连续调用工具的复杂任务。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/509224.html",
+      "publishedAt": "2026-11-11T12:43:54.000Z",
+      "originalTitle": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+      "score": 6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Datadog推出SRE故障排查专用模型Scout",
+      "summary": "Datadog发布用于排查生产问题的模型Scout，在Bits Investigation平台中运行，可接收告警、查看遥测数据并给出根因推测。在AlertEval基准中，Scout medium性能媲美GPT-6.1 Sol high和Claude Opus 5.5 high，成本仅为其1/3至1/8。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "originalTitle": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+      "score": 5.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Databricks更新AI代理Genie",
+      "summary": "Databricks公布AI代理Genie的更新版本，现可执行需要较长时间完成的多步骤工作。该能力通过Databricks构建的本体实现，为Genie提供来自客户存储信息的上下文。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "originalTitle": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "score": 7.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "智谱、MiniMax等大模型厂商天猫双11打5折",
+      "summary": "11月11日，智谱、MiniMax、千问办公、阿里云、Qoder在天猫推出折扣，MiniMax三款月卡全部5折，阿里云Token Plan两款月卡5折起，智谱周卡5折起。Token首次作为独立品类登上天猫。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/509085.html",
+      "publishedAt": "2026-11-11T06:18:09.000Z",
+      "originalTitle": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "score": 6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "AWS CEO称太空AI算力10至20年难具商业可行性",
+      "summary": "亚马逊AWS首席执行官马特·加曼表示，未来10至20年内太空数据中心很难在经济性和实际运营层面达到可行要求。他认为从概念走向商业运营仍需跨越发射成本、运载能力、散热和设备维护等多重障碍。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/025/888.htm",
+      "publishedAt": "2026-11-12T02:09:55.000Z",
+      "originalTitle": "亚马逊 AWS 掌门人谈太空 AI 算力：未来 10 至 20 年难具商业可行性",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    }
+  ]
+}
