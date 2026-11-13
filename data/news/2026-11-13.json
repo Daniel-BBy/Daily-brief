@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-13T02:02:13.720Z",
+  "date": "2026-11-13",
+  "stats": {
+    "raw": 155,
+    "inWindow": 127,
+    "relevant": 55,
+    "deduped": 54,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3685,
+    "completion_tokens": 881,
+    "total_tokens": 4566,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3685
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "SpaceX 拟投超 740 亿美元建 AI 数据中心",
+      "summary": "SpaceX 宣布计划在得克萨斯州和亚利桑那州投入超过 740 亿美元，建设两座面向人工智能的超级计算数据中心园区。其中得州星际基地附近项目投资超 240 亿美元，亚利桑那州科奇斯县园区投资约 500 亿美元。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/026/455.htm",
+      "publishedAt": "2026-11-12T22:52:04.000Z",
+      "originalTitle": "超 740 亿美元砸向 AI：马斯克的 SpaceX 不光造火箭，还要建超级算力帝国",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "融资收购",
+      "title": "Anthropic 启动 IPO 路演，估值缩水",
+      "summary": "Anthropic 的 IPO 路演正式开场，拟以每股 70 至 78 美元发行 8.25 亿股，交易规模最高约 643.5 亿美元，计划 11 月 19 日在纳斯达克交易，代码 ANT。早期股东上市首日最多可套现 221 亿至 246 亿美元。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/509381.html",
+      "publishedAt": "2026-11-12T10:11:29.000Z",
+      "originalTitle": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "score": 9,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "五家 AI 巨头遭起诉，被要求叫停先进模型",
+      "summary": "四家非营利组织向旧金山高等法院起诉 OpenAI、Anthropic、谷歌、Meta 及 SpaceXAI，要求法院叫停这些企业进一步开发最先进 AI 模型。原告援引加州不公平商业行为法律，并大量引用被告公司高管自己的公开表态作为核心证据。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/026/466.htm",
+      "publishedAt": "2026-11-12T23:46:13.000Z",
+      "originalTitle": "边警告 AI 风险边开发先进模型：OpenAI、Anthropic、谷歌等五家 AI 巨头遭起诉，被要求叫停 ChatGPT、Claude、Gemini",
+      "score": 10,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "英伟达临时 CEO 曾力主削减对 OpenAI 担保",
+      "summary": "The Information 援引知情人士称，英伟达临时 CEO 克雷斯在担任财务负责人期间多次对黄仁勋力推的高风险交易提出保留意见。其中涉及为 OpenAI 提供 2500 亿美元信贷支持担保的拟议方案，她主要担心担保金额过高引发投资者反应。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/026/478.htm",
+      "publishedAt": "2026-11-13T00:52:10.000Z",
+      "originalTitle": "黄仁勋最激进 AI 赌局的“刹车手”：英伟达临时 CEO 克雷斯曾力主削减 2500 亿美元 OpenAI 豪赌",
+      "score": 12.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "谷歌发布首款决策模型 Gemini Decision 1",
+      "summary": "谷歌发布首代决策专用模型 Gemini Decision 1，不生成文本，而是通过单次前向传播对封闭选项集进行多模态评分。配套 API 支持是/否、多选及标准打分三类决策任务，覆盖文本、图像、音视频与 PDF 输入。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-12T11:00:00.000Z",
+      "originalTitle": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "score": 5.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "MiniMax 开源 SOTA 生图模型 H3-Image",
+      "summary": "MiniMax 开源图像模型 H3-Image，支持原生 4K，单张成本约两毛。海外网友测试显示其在 CAD 拆解、游戏等复杂生图任务上表现良好，皮肤纹理、关节褶皱等细节处理真实，放大后不易露馅。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/509440.html",
+      "publishedAt": "2026-11-12T11:36:20.000Z",
+      "originalTitle": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "Edge0-145B 开源，可在本地运行前沿模型",
+      "summary": "团队开源 Edge0-145B 和 Edge0-120B，以及统一推理框架和部署工具。Edge0-145B 被称为全球首个 1450 亿参数的开源端侧 AI 模型，将编码、推理和智能体能力带到个人电脑上。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "publishedAt": "2026-11-12T23:06:17.000Z",
+      "originalTitle": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "score": 6.7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "谷歌与 Meta 推出 PyTorch 原生 TPU 后端",
+      "summary": "TorchTPU 是谷歌与 Meta 联合开发的开源项目，为谷歌 TPU 提供原生 PyTorch 后端。它让 PyTorch 工作负载只需少量代码修改即可在 TPU 上执行，支持即时执行、编译执行与分布式原语。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-12T15:00:00.000Z",
+      "originalTitle": "Google 终于让 PyTorch 原生跑上 TPU，开发者：“早该如此！”",
+      "score": 5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Anthropic 玻璃翼计划被质疑修复率低",
+      "summary": "网络安全公司 VulnCheck 发布报告称，Anthropic 玻璃翼计划推出七个月后，Claude 累计挖出 37966 条候选漏洞，但仅修复 217 条。该计划旨在利用 Claude 大规模挖掘关键软件及开源项目中的安全漏洞。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/509291.html",
+      "publishedAt": "2026-11-12T07:55:11.000Z",
+      "originalTitle": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+      "score": 8,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "研究称 AI 聊天机器人推荐虚假零售网站",
+      "summary": "The Verge 报道，一项研究发现 AI 聊天机器人会向用户推荐虚假的零售网站。该报道将这一现象归入 AI 与谷歌相关话题。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "originalTitle": "AI chatbots are recommending fake retail websites, study finds",
+      "score": 5.4,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
