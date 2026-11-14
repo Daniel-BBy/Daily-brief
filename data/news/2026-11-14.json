@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-14T01:37:01.384Z",
+  "date": "2026-11-14",
+  "stats": {
+    "raw": 155,
+    "inWindow": 113,
+    "relevant": 38,
+    "deduped": 38,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3739,
+    "completion_tokens": 941,
+    "total_tokens": 4680,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3739
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "黄仁勋辞任英伟达CEO，CFO临时接任",
+      "summary": "黄仁勋辞去英伟达总裁、CEO及董事会成员职务，由执行副总裁兼CFO Colette Kress出任临时CEO并继续兼任原职。消息公布后英伟达盘前股价一度跌至150.13美元，跌幅约13.58%，公司同时任命Harvey C. Jones为首位董事会主席。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/509995.html",
+      "publishedAt": "2026-11-13T09:02:39.000Z",
+      "originalTitle": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "score": 8,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "黄仁勋辞职或影响Anthropic下周IPO",
+      "summary": "Anthropic预计于11月18或19日上市，英伟达同意在与IPO同步的260亿美元私募配售中认购约100亿美元股份。黄仁勋在上市前夕突然辞任CEO，给这场被视为检验AI投资热情的IPO增添压力。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/026/965.htm",
+      "publishedAt": "2026-11-13T14:50:08.000Z",
+      "originalTitle": "黄仁勋辞任英伟达 CEO，或给 Anthropic 下周“史上最大 IPO”添变数",
+      "score": 7.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "OpenAI推出ChatGPT Wallet支付功能",
+      "summary": "OpenAI宣布推出支付功能ChatGPT Wallet，让dot智能体代替用户购物，由OpenAI与美国运通、万事达卡和Visa合作开发。用户录入一次银行卡信息后即可让智能体寻找商品，每笔交易需通过安全验证，智能体不接触真实卡号。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/026/994.htm",
+      "publishedAt": "2026-11-13T15:49:08.000Z",
+      "originalTitle": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
+      "score": 9.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "具身智能",
+      "title": "OpenAI重组具身智能团队，整合进通用模型",
+      "summary": "OpenAI确认解散独立机器人团队并将人员调至其他部门，机器人研究人员并入核心研究团队向马克·陈汇报，应用机器人与硬件团队转入格雷格·布罗克曼负责的应用部门。官方称包括GPT-6 Astra在内的通用模型已能直接用于部分机器人任务。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/004.htm",
+      "publishedAt": "2026-11-13T23:17:38.000Z",
+      "originalTitle": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "融资收购",
+      "title": "LangChain完成3亿美元C轮融资",
+      "summary": "智能体管理公司LangChain宣布完成3亿美元C轮融资，估值达30亿美元，由CapitalG领投，新加坡GIC、DFJ Growth、IVP和Sapphire Ventures参投。这一估值较其约一年前1.25亿美元的估值翻了一倍多。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "publishedAt": "2026-11-13T19:37:57.000Z",
+      "originalTitle": "AI agent startup LangChain hits $3B valuation",
+      "score": 9.1,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "苹果市值超英伟达1.3万亿美元",
+      "summary": "苹果股价上涨1.49%报360.18美元再创新高，总市值达5.24万亿美元；英伟达股价下跌1.93%，总市值3.93万亿美元，两者相差超1.3万亿美元。英伟达董事会昨晚宣布黄仁勋辞去总裁、CEO及董事会成员职务。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/026/964.htm",
+      "publishedAt": "2026-11-13T14:49:31.000Z",
+      "originalTitle": "苹果股价升至 360 美元 / 股、再创新高，总市值超英伟达 1.3 万亿美元",
+      "score": 7.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "无界前沿开源生命科学模型Fx-Bio-1031",
+      "summary": "无界前沿开源Fx-Bio-1031模型，称在高难盲测中超越GPT-6-Astra与Opus-5，把RSI带进生命科学。文章指出海外生信垂域模型如GPT-Rosalind高度闭源，且未必满足国内本地化部署与数据安全需求。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/509663.html",
+      "publishedAt": "2026-11-13T07:06:32.000Z",
+      "originalTitle": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "Edera从虚拟机监控器层限制AI智能体权限",
+      "summary": "Edera推出对象能力受限权限模型，在虚拟机监控器层实施细粒度对象能力控制，使AI智能体与MCP服务器同敏感凭证强制分离。权限粒度细化至单资源单操作，以应对LLM驱动智能体遭提示注入后横向移动的风险。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-13T17:06:00.000Z",
+      "originalTitle": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Anthropic升级Claude Code Projects并行能力",
+      "summary": "Anthropic更新Claude Code Projects，新增主动协调消息、只读线程共享、提醒、分支命令和改进的产物导航。每个项目是与协调者的长对话，由协调者向各线程分配工作，减少多个云会话并行时的监控需求。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "publishedAt": "2026-11-14T00:28:11.000Z",
+      "originalTitle": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "score": 10.2,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "快手分享商业场景智能互动Agent实践",
+      "summary": "快手大模型应用算法专家邱慧在AICon 2026深圳站分享智能互动Agent在商业场景的落地实践，指出需在效果、时延、成本的不可能三角中平衡。核心挑战包括动态知识库构建、用户模拟驱动的自进化机制和对话场景稀疏奖励的时序分配。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-13T19:00:00.000Z",
+      "originalTitle": "智能互动 Agent 在快手商业场景的落地实践",
+      "score": 5,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
