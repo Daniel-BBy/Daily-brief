@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-15T01:12:05.226Z",
+  "date": "2026-11-15",
+  "stats": {
+    "raw": 155,
+    "inWindow": 95,
+    "relevant": 30,
+    "deduped": 30,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 4226,
+    "completion_tokens": 873,
+    "total_tokens": 5099,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4226
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "请愿恢复黄仁勋英伟达CEO职务人数突破12万",
+      "summary": "英伟达董事会11月12日宣布黄仁勋辞去总裁、CEO及董事职务，CFO科莱特·克雷斯出任临时CEO。名为“Stand with Jensen”的请愿已收集超12万个签名，较昨天增长约6.3万人次，马斯克等参与签名。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/252.htm",
+      "publishedAt": "2026-11-14T23:18:00.000Z",
+      "originalTitle": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "融资收购",
+      "title": "超聚变创业板IPO过会",
+      "summary": "深交所上市审核委员会审议结果显示超聚变符合发行条件、上市条件和信息披露要求，申报受理到过会仅用时174天。该公司成立于2021年9月，源于华为剥离的X86服务器业务部门，目前由河南地方国资控股。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/255.htm",
+      "publishedAt": "2026-11-14T23:38:56.000Z",
+      "originalTitle": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
+      "score": 7,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "DeepSeek开放全家桶API",
+      "summary": "DeepSeek将联网搜索、深度思考搜索、文件上传、链接阅读等功能通过API开放，均有独立接口，支持单独调用、分别计费。同时开源一套轻量级聊天前端Demo，支持导入DeepSeek历史对话。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/510003.html",
+      "publishedAt": "2026-11-14T02:39:56.000Z",
+      "originalTitle": "突发！DeepSeek开放全家桶API",
+      "score": 5.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "Cloudflare开源AI智能体浏览器Kitesurf",
+      "summary": "Cloudflare宣布开源今年8月推出的、专为AI智能体打造的浏览器Kitesurf。它运行在Cloudflare Workers之上，无需依赖传统浏览器容器即可完成HTML解析、CSS应用、执行页面JavaScript及截图渲染，并支持Chrome开发者工具协议。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/197.htm",
+      "publishedAt": "2026-11-14T10:06:01.000Z",
+      "originalTitle": "Cloudflare 开源为 AI 智能体打造的浏览器 Kitesurf，消耗资源低于 Chromium",
+      "score": 7,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "UniPat AI发布湿实验预测基准SPU",
+      "summary": "UniPat AI牵头推出新基准Science Prediction Universe，包含116个任务、4207个湿实验，覆盖化学、材料科学、生物和医学。基准顾问与湿实验合作成员来自斯坦福、康奈尔、哈佛等高校及科研机构和生物技术公司。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/510232.html",
+      "publishedAt": "2026-11-14T09:58:22.000Z",
+      "originalTitle": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "星舰飞船首次被发射塔机械臂捕获回收",
+      "summary": "SpaceX在星舰第15次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船。马斯克称计划用该飞船在LEO轨道构建包含百万艘航天器的AI数据中心星座，双筷子式抓取是实现高组装频率的关键。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/253.htm",
+      "publishedAt": "2026-11-14T23:26:58.000Z",
+      "originalTitle": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
+      "score": 6.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "华尔街对黄仁勋离任后AI投资热潮并不太担心",
+      "summary": "英伟达股价开盘一度暴跌14%，最终收跌4.3%，费城半导体指数收盘仅跌0.5%。盈透证券策略师索斯尼克称市场关心的是寻找机会，博通和AMD股价大涨，投资者认为两家有望争取英伟达流失的业务。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/184.htm",
+      "publishedAt": "2026-11-14T09:19:02.000Z",
+      "originalTitle": "黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”",
+      "score": 6.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "LG U+明年进军AI Token业务",
+      "summary": "韩国电信运营商LG U+将于明年进军AI Token业务，利用自主研发的Token优化技术帮助企业降低AI转型成本。服务包含Harness Engineering、智能路由和芯片组合三项技术，其自研端侧AI模型体积缩小三分之一而性能达通用云端模型95%以上。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/262.htm",
+      "publishedAt": "2026-11-15T00:42:33.000Z",
+      "originalTitle": "韩国电信运营商 LG U+ 明年进军 AI Token 业务，帮助企业降低 AI 转型成本",
+      "score": 6,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "前Anthropic研究员称重训Mythos只需一小部分算力",
+      "summary": "曾任职于OpenAI和Anthropic的研究员雅各布·考克森称，Anthropic IPO路演中一张展示训练算力需求变化的幻灯片是他离职的重要原因。他认为Mythos的性能突破是算法效率加速提升的结果，而非偶然。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/221.htm",
+      "publishedAt": "2026-11-14T11:45:39.000Z",
+      "originalTitle": "前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力",
+      "score": 7,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "TechCrunch整理未存活AI项目与创业公司名单",
+      "summary": "TechCrunch发布一份未存活AI项目与创业公司的持续更新名单。文中提到聊天机器人平台Character.ai在推出五年后于上月申请破产，注重隐私的AI助手Ollie也在几周前宣布关停。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "score": 5.6,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
