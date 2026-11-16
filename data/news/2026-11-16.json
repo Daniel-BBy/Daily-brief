@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-16T01:18:07.464Z",
+  "date": "2026-11-16",
+  "stats": {
+    "raw": 155,
+    "inWindow": 89,
+    "relevant": 16,
+    "deduped": 15,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3445,
+    "completion_tokens": 766,
+    "total_tokens": 4211,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3445
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "消息称黄仁勋考虑重返英伟达担任CEO",
+      "summary": "据英国《金融时报》报道，黄仁勋正考虑重返英伟达担任首席执行官，其硅谷盟友正向董事会施压要求重新任命。盟友组建“作战室”游说并计划争取白宫支持，马斯克等高管公开支持联名信。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/470.htm",
+      "publishedAt": "2026-11-15T23:26:25.000Z",
+      "originalTitle": "消息称黄仁勋考虑重返英伟达担任 CEO，其硅谷盟友正施压董事会",
+      "score": 6,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "腾讯WorkBuddy国际版上线Gemini 4 Carbon",
+      "summary": "腾讯WorkBuddy国际版宣布正式上线谷歌Gemini 4 Carbon模型，目前仅面向Pro计划用户开放。该模型支持文本、图像、音频和视频输入，输入与输出合计上下文窗口最高可达100万Token。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/487.htm",
+      "publishedAt": "2026-11-16T00:44:37.000Z",
+      "originalTitle": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "开源盘古模型openPangu-2.1-Pro上线华为云",
+      "summary": "华为云MaaS模型即服务平台正式上线开源盘古模型openPangu-2.1-Pro，围绕Agent开发、AI编码和推理优化三大方向升级。该模型在深度研究、鸿蒙系统操控、鸿蒙App开发及昇腾算子生成等场景实现增强。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/450.htm",
+      "publishedAt": "2026-11-15T13:16:54.000Z",
+      "originalTitle": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
+      "score": 8,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "Claude Fable 5.2用代码模拟画笔作画",
+      "summary": "Anthropic发布Claude Fable 5.2和Claude Mythos 5.2模型。Fable 5.2不调用图像生成模型，而是通过编写代码在虚拟画布上模拟画笔运动逐笔作画，可模拟笔刷纹理、颜料湿润程度和画布质感。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/490.htm",
+      "publishedAt": "2026-11-16T01:01:05.000Z",
+      "originalTitle": "不调用图像模型，Anthropic Claude Fable 5.2 用 Python 代码模拟真实画笔作画",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "融资收购",
+      "title": "印度芯片创企Bharat Semi获2400万美元种子轮",
+      "summary": "印度半导体初创公司Bharat Semi获得2400万美元种子轮融资，用于开发AI图像传感器，并寻求在美国等地赢得客户。该公司成立近五年，目前尚无营收。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "publishedAt": "2026-11-15T23:30:00.000Z",
+      "originalTitle": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "score": 7.1,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "韩国因AI作弊全面调查国家资格考试",
+      "summary": "韩国税务师考试第一名考生被曝利用人工智能作弊，政府决定取消其成绩并限制五年内不得参加该考试。政府计划对今年所有国家资格考试中的AI作弊行为展开全面调查，并拟引入红外线探测器等设备。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/453.htm",
+      "publishedAt": "2026-11-15T13:42:51.000Z",
+      "originalTitle": "韩国税务师考试头名 AI 作弊曝光后，政府全面调查今年国家资格考试",
+      "score": 5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "澳央行研究：AI最先冲击年轻劳动者",
+      "summary": "澳大利亚储备银行的迈克·梅杰开展研究并建立就业市场监测系统，关注最易受AI影响的群体。研究显示自2022年底ChatGPT推出以来，AI影响程度最高的职业招聘岗位降幅最大，15至24岁年轻劳动者就业率更低。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/432.htm",
+      "publishedAt": "2026-11-15T11:03:53.000Z",
+      "originalTitle": "澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位",
+      "score": 5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "美国国会拟收紧AI芯片出口规则",
+      "summary": "在英伟达相关事件后，美国国会希望收紧AI芯片的出口规则。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "publishedAt": "2026-11-15T19:15:43.000Z",
+      "originalTitle": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "score": 7.4,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "AI版拓麻歌子让日常物品变虚拟宠物",
+      "summary": "卡内基梅隆大学未来交互研究小组博士生金大华开发OATs系统，通过小型电子墨水屏为日常家居物品赋予能表达情绪的虚拟形象。该项目在ACM UIST 2026会议上展示，并获得两项荣誉奖。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/443.htm",
+      "publishedAt": "2026-11-15T12:43:54.000Z",
+      "originalTitle": "AI 版拓麻歌子来了：日常物品秒变需要被照顾的虚拟宠物",
+      "score": 4.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "英伟达新任CEO面临重建员工信任难题",
+      "summary": "据Business Insider报道，黄仁勋离职后，英伟达下一任首席执行官将面临重新赢得数万名员工信任的艰巨任务。报道称黄仁勋涉嫌与公司一名直接下属、另一名员工以及一名客户发生婚外情。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/027/433.htm",
+      "publishedAt": "2026-11-15T11:19:40.000Z",
+      "originalTitle": "黄仁勋卸任后，英伟达新任 CEO 面临重建员工信任难题",
+      "score": 4.5,
+      "bodyMethod": "rss"
+    }
+  ]
+}
