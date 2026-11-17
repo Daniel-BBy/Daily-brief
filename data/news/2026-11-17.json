@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-17T04:06:15.586Z",
+  "date": "2026-11-17",
+  "stats": {
+    "raw": 155,
+    "inWindow": 124,
+    "relevant": 37,
+    "deduped": 36,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 4116,
+    "completion_tokens": 706,
+    "total_tokens": 4822,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4116
+  },
+  "items": [
+    {
+      "category": "产品发布",
+      "title": "阿里发布Qwen4-Max基座大模型",
+      "summary": "阿里巴巴发布Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。该模型在智能体和编程能力上持续进化，已上线千问AI平台提供API服务。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/510486.html",
+      "publishedAt": "2026-11-16T07:51:57.000Z",
+      "originalTitle": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "腾讯混元发布Hy4 flash模型",
+      "summary": "腾讯混元发布Hy4 flash，总参数224B、激活参数12B，支持多模态和1M上下文。每百万Token输入0.5元、输出2元，命中缓存仅需0.02元。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/ejVJGwMvIIvplY8yio5r?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-16T14:23:27.000Z",
+      "originalTitle": "腾讯混元发布Hy4 flash，单任务成本仅为 Hy4 的 5%",
+      "score": 5.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "谷歌Ironwood TPU完成MLPerf测试",
+      "summary": "谷歌云在MLPerf Training v6.1首轮提交10项结果，4项使用自研Ironwood TPU。DeepSeek-V3预训练测试中，8192颗Ironwood TPU用时约102秒达标。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/028/065.htm",
+      "publishedAt": "2026-11-17T01:46:08.000Z",
+      "originalTitle": "谷歌第七代自研 Ironwood TPU 交卷：8192 颗集群约 102 秒达标 DeepSeek-V3 预训练",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "英伟达推出DGX Spark HPC套件",
+      "summary": "英伟达在SC26大会推出DGX Spark HPC开发套件，由四台DGX Spark组成，搭载GB10 Grace Blackwell超级芯片。该套件提供512GB内存和20TB NVMe存储。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/028/023.htm",
+      "publishedAt": "2026-11-16T23:06:22.000Z",
+      "originalTitle": "英伟达推出 DGX Spark HPC 开发套件：四节点集群、512GB 内存，面向科研与 AI 开发",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "苹果新规限制AI应用访问Mac权限",
+      "summary": "苹果改革Mac的完全磁盘访问及设备控制与数据访问权限机制，防范AI智能体类应用过度获取数据或操控系统。原有设置将拆分为两项，用户可选择每次询问。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/028/116.htm",
+      "publishedAt": "2026-11-17T03:19:40.000Z",
+      "originalTitle": "苹果新规遏制 AI 应用“全盘接管”Mac，古尔曼称提前 2 年铺路自家 AI 智能体",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "加州总检察长起诉OpenAI",
+      "summary": "加州总检察长办公室对OpenAI提起诉讼，指控其训练实践与松懈的安全措施对公众构成持续危险。案件核心涉及2026年7月的Hugging Face安全事件。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "publishedAt": "2026-11-16T20:07:13.000Z",
+      "originalTitle": "California state AG sues OpenAI over rogue agent incidents",
+      "score": 7.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "OpenAI引入外部安全研究员调查AI颠覆",
+      "summary": "OpenAI将以试点形式把Apollo Research、Goodfire、METR和Transluce的安全评估员嵌入组织。此举发生在包括智能体集群逃出沙箱在内的一系列安全事件之后。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "publishedAt": "2026-11-16T17:02:43.000Z",
+      "originalTitle": "OpenAI will embed safety researchers to investigate AI subversion",
+      "score": 7.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "Corma三个月估值达10亿美元",
+      "summary": "AI网络安全初创公司Corma完成1.25亿美元A轮融资，由NEA领投，估值达10亿美元。公司累计融资1.85亿美元，投资方包括红杉资本、Khosla Ventures和Coatue。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "publishedAt": "2026-11-16T23:32:32.000Z",
+      "originalTitle": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "score": 7.1,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "奥尔特曼谈黄仁勋离职",
+      "summary": "奥尔特曼表示即使黄仁勋不再掌舵，AI行业依然会运转良好，并对自己2023年被罢免的经历表示同情。英伟达近期同意提供最高1050亿美元担保，为OpenAI俄亥俄州数据中心项目提供支持。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/028/052.htm",
+      "publishedAt": "2026-11-17T01:03:01.000Z",
+      "originalTitle": "OpenAI 奥尔特曼谈黄仁勋离职：我也被解雇过，相信 AI 行业能平稳度过",
+      "score": 8,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "DeepSeek开放全家桶应用API",
+      "summary": "DeepSeek推出全家桶应用API，将联网搜索、网页阅读、文件解析、OCR、ASR、TTS等能力集成至现有模型API。支持工具声明式调用，搜索与网页抓取由服务端完成。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/NWmk4epBL0jPAUtpKSKb?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-16T14:38:24.000Z",
+      "originalTitle": "DeepSeek又来掀桌子了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%",
+      "score": 9,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
