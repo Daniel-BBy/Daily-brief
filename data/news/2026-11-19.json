@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-19T02:43:49.584Z",
+  "date": "2026-11-19",
+  "stats": {
+    "raw": 155,
+    "inWindow": 131,
+    "relevant": 60,
+    "deduped": 60,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3792,
+    "completion_tokens": 906,
+    "total_tokens": 4698,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3792
+  },
+  "items": [
+    {
+      "category": "融资收购",
+      "title": "Anthropic IPO 定价每股 83 美元",
+      "summary": "Anthropic 将 IPO 发行价定为每股 83 美元，高于此前 70 至 78 美元的区间。按此计算完全稀释估值约 1.5 万亿美元，公开发行预计募资约 684 亿美元，加上 260 亿美元私募配售，合计融资规模超 944 亿美元。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/029/132.htm",
+      "publishedAt": "2026-11-18T22:36:01.000Z",
+      "originalTitle": "史上最大 IPO：Anthropic 每股定价 83 美元，预计募资 944 亿美元超 SpaceX",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "谷歌推出 Gemini 4 Neon 模型",
+      "summary": "谷歌宣布推出 AI 模型 Gemini 4 Neon，主攻复杂编程、科学研究和企业工作流程，平衡推理能力、任务处理速度与成本。该模型支持 100 万 token 上下文窗口，提供四种推理级别，已向开发者、企业及部分付费订阅用户开放。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/029/144.htm",
+      "publishedAt": "2026-11-18T23:53:51.000Z",
+      "originalTitle": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一",
+      "score": 11,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "英伟达停止向中国销售 AI 芯片",
+      "summary": "The Verge 报道称，英伟达已不再向中国销售 AI 芯片。报道未在开头给出更多细节，仅以“After fo...”引出后续内容。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "publishedAt": "2026-11-18T13:01:05.000Z",
+      "originalTitle": "Nvidia isn’t selling any more AI chips to China",
+      "score": 6.9,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "Genesis 完成 A 轮融资估值超 230 亿",
+      "summary": "Genesis AI 完成 A 轮融资，投资方包括英伟达、AMD、前谷歌 CEO Eric Schmidt、Zoom 创始人袁征和雅虎创始人 Jerry Yang 等。公司由周衔与 Théophile Gervet 于 2025 年 3 月联合创立，今年 5 月公开首个具身基础模型 GENE-26.5。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/510821.html",
+      "publishedAt": "2026-11-18T04:28:57.000Z",
+      "originalTitle": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "score": 9,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "纳德拉谈微软 6 万人自愿离职计划",
+      "summary": "微软 CEO 纳德拉回应面向约 6 万名员工推出自愿离职计划，坦言随着 AI 改变软件开发方式，员工工作模式和团队组织结构都将变化。他表示微软内部并非所有团队都已适应 AI 带来的变化，公司需要以不同方式重新配置员工队伍。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/029/147.htm",
+      "publishedAt": "2026-11-19T00:19:17.000Z",
+      "originalTitle": "微软 CEO 纳德拉谈 6 万人自愿离职计划：部分团队尚未适应 AI 转型，公司希望给予员工更多自主权、让合适的人才进入合适的岗位",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "GitHub Agentic Workflows 正式可用",
+      "summary": "GitHub 宣布 GitHub Agentic Workflows 正式可用，可在 GitHub Actions 中运行编码智能体，处理 Issue 分类与 CI 故障分析等任务。智能体启动时仅有只读权限，其提出的更改由持有各自写入令牌的独立作业应用，并受沙箱容器与变更扫描保护。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "originalTitle": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Snapchat 支持用 AI 编程助手做 AR 滤镜",
+      "summary": "Snapchat 宣布允许 Lens 创作者使用 Claude Code、Cursor 和 Codex 等 AI 编程助手来构建 AR 滤镜。Lens 是该社交网络平台的核心组成部分。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "publishedAt": "2026-11-18T19:56:39.000Z",
+      "originalTitle": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "score": 7.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Uber 建 MCP Gateway 管理智能体调用",
+      "summary": "Uber 构建 MCP Gateway，统一规范 AI 智能体发现和调用内部服务的方式，解决集成碎片化、基础设施重复建设和安全实践不一致等问题。该平台支持 800 多个 MCP 服务器和 5000 多个工具，采用控制平面与执行平面分离架构。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "originalTitle": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+      "score": 9,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "爆料称 OpenAI 新模型因安全对齐推迟",
+      "summary": "AI 爆料博主 Token Gremlin 称，OpenAI 新一代模型正因安全与对齐问题推迟发布，延期已持续数周，并同时点名 GPT-6.2 和 GPT-6.5。此前 11 月初已有社区用户声称被灰度到 GPT-6.2。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/510914.html",
+      "publishedAt": "2026-11-18T07:53:29.000Z",
+      "originalTitle": "GPT-6.2难产！OpenAI怕了",
+      "score": 8,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Altman 称难以想象没有黄仁勋的 AI 业",
+      "summary": "OpenAI CEO Sam Altman 表示，很难想象没有黄仁勋的 AI 行业。英伟达联合创始人、前 CEO 黄仁勋已卸任，AI 社区需在其缺席下继续前行。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "publishedAt": "2026-11-18T16:14:09.000Z",
+      "originalTitle": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "score": 7.6,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
