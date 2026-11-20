@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-20T02:30:08.349Z",
+  "date": "2026-11-20",
+  "stats": {
+    "raw": 155,
+    "inWindow": 126,
+    "relevant": 58,
+    "deduped": 58,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3875,
+    "completion_tokens": 733,
+    "total_tokens": 4608,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3875
+  },
+  "items": [
+    {
+      "category": "产品发布",
+      "title": "OpenAI 开放 GPT-Live-1.1 API",
+      "summary": "OpenAI 向开发者开放 GPT-Live-1.1 语音模型 API，可集成到第三方应用构建实时语音智能体。该模型具备全双工语音交互能力，能识别停顿、打断和语速变化，并改进多语言处理与指令遵循。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/029/776.htm",
+      "publishedAt": "2026-11-20T00:50:30.000Z",
+      "originalTitle": "OpenAI 开放 GPT-Live-1.1 API：支持实时双向对话，智能体可边聊天边处理复杂任务",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "苹果正自研 AI 智能体",
+      "summary": "彭博社报道苹果正开发自主 AI 智能体，计划让 AI 代替用户执行设备操控、应用操作、网页浏览和软件编程等任务。苹果官网已发布“主动式智能体 AI”高级工程经理招聘信息，称正组建相关团队。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/029/750.htm",
+      "publishedAt": "2026-11-19T22:56:00.000Z",
+      "originalTitle": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争",
+      "score": 10,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "融资收购",
+      "title": "Anthropic IPO 登陆公开市场",
+      "summary": "Anthropic 的 IPO 今日登陆公开市场，预计为公司及投资者筹集数十亿美元。报道称最大意外是其中很大一部分资金将流向作为供应商的投资者，亚马逊和谷歌是其最大的基础设施合作伙伴。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "publishedAt": "2026-11-19T14:54:39.000Z",
+      "originalTitle": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "score": 8.1,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Altman 回应 Anthropic 抢先上市",
+      "summary": "Sam Altman 在访谈中表示不担心 Anthropic 抢先上市，相信 AI 仍有巨大资本和商业空间。他提醒芯片厂商对需求的预期可能存在重复，DRAM 短缺暴露供应链扩产滞后。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/Mf3Zbm9JF3RWbkvjMKYZ?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-19T22:57:55.000Z",
+      "originalTitle": "Sam Altman罕见发声：我不担心Anthropic先上市，市场上不缺投资者",
+      "score": 6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Google 在首页加入 AI 对话",
+      "summary": "The Verge 报道 Google 将 AI 对话功能直接放到首页，用户可在首页发起 AI 聊天。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "publishedAt": "2026-11-19T20:05:06.000Z",
+      "originalTitle": "Google is putting AI chats right on the homepage",
+      "score": 5.4,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "Claude 解决两个黑洞物理开放问题",
+      "summary": "Claude 解决了理论物理中两个与黑洞及量子引力理论探索相关的开放问题。其中第一个是完成物理学家 20 多年前提出但从未解决的计算，结果显示与黑洞形成相关的突变持续存在。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "publishedAt": "2026-11-19T17:30:44.000Z",
+      "originalTitle": "Claude solves two open problems in the physics of black holes",
+      "score": 5.2,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "OpenAI 邀 Plus 用户测试 dots",
+      "summary": "OpenAI 邀请少量 ChatGPT Plus 用户测试 dots，并向所有 ChatGPT Business Standard 用户开放。dots 是全天候智能助理，拥有自己的云电脑，可后台规划议程、设计网站、测试应用和修改笔记。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/029/784.htm",
+      "publishedAt": "2026-11-20T01:20:21.000Z",
+      "originalTitle": "OpenAI 邀部分 Plus 用户体验 dots AI 智能体，移动版 ChatGPT 将为其设独立标签页",
+      "score": 10,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "Anthropic 披露 Claude Code 审查流程",
+      "summary": "Anthropic 发文介绍 Claude Code 团队代码审查流程，称 Claude 已编写约 90% 的 Claude Code 代码。团队通过 AI 深度介入将人工审查压缩至极简，支持日均 3 万+ 合并操作，并放弃构建全局代码心智模型。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/R9BxSitBpwGcDwfS22ac?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "originalTitle": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "安谋科技发布星辰 100e 平台",
+      "summary": "安谋科技举办 Arm Cortex-M CPU 新品说明会，深度解析 Cortex-M42 处理器，并推出基于该产品的“星辰 100e”AIoT 原型平台。Cortex-M42 面向成本和面积敏感的智能端点设备，基于 Armv8.1-M 架构。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/511079.html",
+      "publishedAt": "2026-11-19T04:02:39.000Z",
+      "originalTitle": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "Gemini 4 Neon 登顶模型工程指数",
+      "summary": "Hacker News 帖子显示，Gemini 4 Neon 以 68.0 分成为 Models Engineering Index 新的第一名，Fable 5.2 以 65.3 分位列其后。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://git-aarvin.github.io/mei/",
+      "publishedAt": "2026-11-19T23:35:35.000Z",
+      "originalTitle": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "score": 6.7,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
