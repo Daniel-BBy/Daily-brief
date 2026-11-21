@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-21T02:41:28.983Z",
+  "date": "2026-11-21",
+  "stats": {
+    "raw": 155,
+    "inWindow": 105,
+    "relevant": 36,
+    "deduped": 36,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3955,
+    "completion_tokens": 778,
+    "total_tokens": 4733,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3955
+  },
+  "items": [
+    {
+      "category": "融资收购",
+      "title": "阿波罗与高盛完成440亿美元GPU融资定价",
+      "summary": "阿波罗全球管理公司与高盛宣布完成约440亿美元优先及次级票据融资定价，资金用于为SpaceX购买GPU及相关设备。该交易获超额认购并扩大规模，成为迄今规模最大的GPU融资交易，将采购英伟达Vera Rubin芯片。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/296.htm",
+      "publishedAt": "2026-11-20T23:34:13.000Z",
+      "originalTitle": "440 亿美元！阿波罗与高盛完成迄今规模最大 GPU 融资定价，SpaceX 要买英伟达芯片",
+      "score": 9.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "英伟达黄仁勋辞职 董事会拒绝其回归",
+      "summary": "黄仁勋辞去英伟达总裁、CEO和董事会成员职务，CFO Colette Kress暂代CEO。公司称日常运营和产品路线图不会中断，财报显示季度营收达1158.44亿美元，同比增长103%。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-20T18:48:14.000Z",
+      "originalTitle": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+      "score": 5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "美国SEC调查英伟达会计问题",
+      "summary": "美国证券交易委员会正在调查英伟达的会计实务，两名知情人士透露了这一消息。这使这家丑闻缠身的芯片巨头面临的法律困境进一步加剧。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+      "publishedAt": "2026-11-20T20:22:41.000Z",
+      "originalTitle": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "score": 5.2,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "匿名模型Gestalt登顶Contra设计榜单",
+      "summary": "Contra Labs发布AI设计能力评测榜单，匿名模型Gestalt以Elo评分1931分、胜率90%登顶，超过Claude Fable 5.2和GPT-6.1 Sol。其设计师偏好评分还超过了人类设计师参考作品。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/291.htm",
+      "publishedAt": "2026-11-20T23:17:51.000Z",
+      "originalTitle": "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "Anthropic数学家称与Claude证明黎曼猜想",
+      "summary": "Anthropic数学家莱文特·阿尔波格宣称与AI模型Claude合作找到了黎曼猜想的证明。黎曼猜想由伯恩哈德·黎曼于1859年提出，是数学界最著名的未解难题之一。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/278.htm",
+      "publishedAt": "2026-11-20T15:37:46.000Z",
+      "originalTitle": "AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "具身智能",
+      "title": "华为云发布昇腾原生具身世界模型",
+      "summary": "华为云发布昇腾原生具身世界模型CloudRobo-WM1.2，在RoboTwin 2.0和LIBERO-Pro 2.0评测中分别以88.98%和81.73%的平均成功率双双排名第一。模型在昇腾算力上训练，并开放训练链路供其他团队使用。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/511610.html",
+      "publishedAt": "2026-11-20T08:04:58.000Z",
+      "originalTitle": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "score": 5.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "谷歌发布机器人物理推理模型Gemini 4 Argon",
+      "summary": "谷歌发布通用物理推理模型Gemini 4 Argon，适用于机器人控制、Real2Sim场景构建和策略优化。其在ERQA基准达87%纯推理得分，真实环境任务成功率从56%提升至75%，通过Gemini API及Google AI Ultra开放。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-20T11:00:00.000Z",
+      "originalTitle": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "score": 7.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "OpenAI推出MedChemBench药物研发基准",
+      "summary": "OpenAI发布MedChemBench基准，评估AI模型在药物化学研究中的推理能力，包含99道取自117篇论文与专利的题目，涉及761个分子结构。OpenAI称模型在重建分子结构方面较强，化合物筛选和数值性质预测仍有提升空间。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/301.htm",
+      "publishedAt": "2026-11-21T00:06:12.000Z",
+      "originalTitle": "OpenAI 推出 MedChemBench 基准，评估 AI 辅助药物研发能力",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "研究揭示AI服务链隐私泄露风险",
+      "summary": "安全公司Dragos首席研究官HD Moore向多家AI服务商发送近200万条带可追踪诱饵的请求，发现AI服务链存在提示词被窃取、转售商泄露数据及未遵守隐私设置等问题。至少三家服务商出现遭入侵迹象。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/322.htm",
+      "publishedAt": "2026-11-21T02:03:24.000Z",
+      "originalTitle": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "特朗普威胁对AI数据中心外迁征税",
+      "summary": "特朗普威胁对将AI数据中心迁往美国境外的行为征收“巨额税”。该表态涉及AI数据中心选址与政策监管。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "publishedAt": "2026-11-20T18:50:19.000Z",
+      "originalTitle": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "score": 5.4,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
