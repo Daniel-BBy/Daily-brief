@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-22T01:29:39.525Z",
+  "date": "2026-11-22",
+  "stats": {
+    "raw": 155,
+    "inWindow": 90,
+    "relevant": 22,
+    "deduped": 22,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 4165,
+    "completion_tokens": 725,
+    "total_tokens": 4890,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4165
+  },
+  "items": [
+    {
+      "category": "政策监管",
+      "title": "SEC对英伟达潜在会计问题展开调查",
+      "summary": "路透社称SEC执法部门正审查英伟达可能存在的会计问题。消息当天英伟达股价跌超14%报125.5美元，较10月高点243.4美元跌超48%。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/514.htm",
+      "publishedAt": "2026-11-21T23:07:13.000Z",
+      "originalTitle": "消息称美国证券交易委员会对英伟达潜在会计问题展开调查，股价较 10 月高点腰斩",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "GPT-6.2 Astra具身任务成功率翻倍",
+      "summary": "XDOF实测中GPT-6.2 Astra操控双臂机器人完成16项任务，综合成功率从GPT-6 Astra的19.6%升至41.2%。评测用六台YAM工作站并行，每项任务重复三十次。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "publishedAt": "2026-11-21T06:35:59.000Z",
+      "originalTitle": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "score": 6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "开源",
+      "title": "DeepSeek V1作者公布开源Agent项目Linger",
+      "summary": "前DeepSeek V1作者Tony Zhang公布创业项目Linger，可操纵电脑已有网页、邮件箱、日历，无需登录凭据。其称12GB显存RTX 3060即可运行125B参数模型。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "publishedAt": "2026-11-21T06:32:31.000Z",
+      "originalTitle": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Signal默认屏蔽截图防AI智能体读取",
+      "summary": "Signal更新默认关闭应用内截图功能，阻止Siri AI和Gemini等智能体读取私人消息。iOS版默认启用“阻止Siri AI”，安卓版检测到AI助手截图时自动启用屏幕安全策略。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/517.htm",
+      "publishedAt": "2026-11-21T23:28:10.000Z",
+      "originalTitle": "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息",
+      "score": 8,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "腾讯混元团队Reddit谈Hy4与Hy4 flash",
+      "summary": "姚顺雨与腾讯混元团队在Reddit就Hy4和Hy4 flash举行AMA。Hy4 flash支持最长100万Token上下文，每Token激活约120亿参数，两款模型权重均已公开。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "publishedAt": "2026-11-21T06:30:55.000Z",
+      "originalTitle": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "score": 5.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "群联展示内置NPU与64GB内存的智能SSD",
+      "summary": "群联在SC26展示企业级固态硬盘，内置NPU与64GB内存，带宽130GB/s，可直接运行PyTorch、vLLM等框架。该方案特定负载下有望减少10至100倍数据传输量。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/524.htm",
+      "publishedAt": "2026-11-22T00:04:47.000Z",
+      "originalTitle": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+      "score": 6.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "华科与阿里共建AI前沿安全研究中心",
+      "summary": "华中科技大学与阿里巴巴签署合作协议，共建“智能攻防与前沿安全联合研究中心”，首批启动9个课题，覆盖大模型安全攻防、智能体与终端安全等四大方向。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/423.htm",
+      "publishedAt": "2026-11-21T09:57:05.000Z",
+      "originalTitle": "华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "韩国总统李在明称AI竞赛速度至关重要",
+      "summary": "李在明视察蔚山在建数据中心，敦促韩国加快全球AI竞赛步伐。该数据中心由SK与亚马逊云科技共同开发，到2029年总投资额预计7万亿韩元，计划2027年下半年运营。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/506.htm",
+      "publishedAt": "2026-11-21T14:26:35.000Z",
+      "originalTitle": "韩国总统李在明：速度在 AI 竞赛中至关重要",
+      "score": 5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "Entire推出面向编码智能体的Git平台",
+      "summary": "Entire是面向人类开发者与AI编码智能体协作的Git托管平台，以trails轨迹机制和评估分数驱动合并决策。平台基于全分布式架构，代码推送性能达GitHub的89倍。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-21T10:00:00.000Z",
+      "originalTitle": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+      "score": 4.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "欧洲法律AI智能体工具Pandex登陆MCP",
+      "summary": "Pandex提供欧盟及七个欧洲国家立法与最高法院判决，来自官方发布机构，可供搜索和AI智能体使用。通过一个API和一个MCP服务器覆盖所辖各法域。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://www.pandex.io",
+      "publishedAt": "2026-11-21T20:47:41.000Z",
+      "originalTitle": "Pandex – Official European Law for AI Agents, over MCP",
+      "score": 8.2,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
