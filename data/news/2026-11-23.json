@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-23T01:54:12.093Z",
+  "date": "2026-11-23",
+  "stats": {
+    "raw": 155,
+    "inWindow": 94,
+    "relevant": 25,
+    "deduped": 25,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3869,
+    "completion_tokens": 785,
+    "total_tokens": 4654,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3869
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "OpenAI首席科学家提议为AI开发设共同限制",
+      "summary": "OpenAI首席科学家帕霍茨基发文提议，AI企业应建立行业统一标准，对先进模型开发设置共同限制。他称困惑度可作为衡量预训练进展的指标，并公布GPT-3.5与GPT-4的对数困惑度数据。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/720.htm",
+      "publishedAt": "2026-11-22T22:50:46.000Z",
+      "originalTitle": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "苹果Siri AI集体诉讼和解 每台iPhone或赔61美元",
+      "summary": "苹果今年5月同意支付2.5亿美元和解Siri AI功能延迟上线的美国集体诉讼。律师预计符合条件的iPhone每台可获赔至少61美元，最高95美元，最终金额随申报量调整。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/729.htm",
+      "publishedAt": "2026-11-22T23:37:54.000Z",
+      "originalTitle": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "微软AI负责人苏莱曼支持OpenAI提高透明度倡议",
+      "summary": "微软AI负责人苏莱曼在X平台表示完全支持OpenAI提高透明度的倡议，并承诺在双方共同保留的评测集上分享预训练进展。经OpenAI许可，微软公布了MAI-2 Base对数困惑度为0.819。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/745.htm",
+      "publishedAt": "2026-11-23T01:00:23.000Z",
+      "originalTitle": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议",
+      "score": 8,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "郭明錤：谷歌削减2027年TPU 8i出货约100万颗",
+      "summary": "郭明錤调查显示，谷歌削减2027年由博通设计的TPU 8i系列约100万颗，约占该系列出货量的20%。谷歌预计增加联发科设计的TPU 8t系列出货，细节尚未确定。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/698.htm",
+      "publishedAt": "2026-11-22T11:20:07.000Z",
+      "originalTitle": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗",
+      "score": 7,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "Anthropic数学家用Claude主张证明Navier-Stokes问题",
+      "summary": "Anthropic数学家Levent Alpöge与纽约大学教授Tristan Buckmaster于11月20日公布论文，声称证明三维Navier-Stokes方程无外力有限时间爆破。陶哲轩发文讨论，认为策略大体清楚但仍需整理成规范证明文本。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/511870.html",
+      "publishedAt": "2026-11-22T06:03:54.000Z",
+      "originalTitle": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "score": 6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "小鹏图灵AI智驾开放欧洲公众体验 首站巴黎",
+      "summary": "小鹏汽车宣布小鹏图灵AI智驾率先开放欧洲公众体验，首站法国巴黎。其通用智能中心负责人刘先明此前透露，智驾系统从一欧洲国家微调适配到另一国约需两周，数据量仅为训练基础模型的万分之一。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/755.htm",
+      "publishedAt": "2026-11-23T01:20:36.000Z",
+      "originalTitle": "中国车企首次：小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎",
+      "score": 6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "B站就AI智能体账号泛滥发布问卷征集治理意见",
+      "summary": "B站出现大量以“大肥鱼”“小飞鲸”等昵称为名的AI智能体账号，在评论区广泛活跃。官方账号于11月20日发布治理意见征询，面向用户征集意见并将据此推进后续治理。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/702.htm",
+      "publishedAt": "2026-11-22T11:44:18.000Z",
+      "originalTitle": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
+      "score": 7,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "开发者将微型Transformer模型塞进软盘供486电脑使用",
+      "summary": "开发者WollyMonjac将微型问答Transformer模型Tiny 2.1塞进软盘，让运行DOS的486DX和Pentium老电脑也能使用AI。该模型参数量36.7万个，采用4层网络、隐藏维度96和8位量化。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/030/699.htm",
+      "publishedAt": "2026-11-22T11:24:43.000Z",
+      "originalTitle": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
+      "score": 7,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "《以撒的结合》开发者移除Repentance Plus中的AI音乐",
+      "summary": "《以撒的结合》开发者从Repentance Plus中移除了AI音乐。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "publishedAt": "2026-11-22T17:25:20.000Z",
+      "originalTitle": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "score": 5.4,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "Notable Capital等机构在Anthropic IPO前大额投资",
+      "summary": "Notable Capital将超10亿美元基金美国部分的约10%投入Anthropic的E轮融资。当时Claude的开发商仍落后于最大竞争对手OpenAI，DeepSeek也已发布R1模型。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "publishedAt": "2026-11-23T01:25:53.000Z",
+      "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "score": 7.1,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
