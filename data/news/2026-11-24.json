@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-11-24T05:27:12.563Z",
+  "date": "2026-11-24",
+  "stats": {
+    "raw": 155,
+    "inWindow": 123,
+    "relevant": 52,
+    "deduped": 51,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3347,
+    "completion_tokens": 723,
+    "total_tokens": 4070,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3347
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "前三季度数字产业收入32.41万亿元",
+      "summary": "工信部发布前三季度数字产业运行数据，数字产业实现收入32.41万亿元，同比增长14.8%，利润2.78万亿元，同比增长23.4%。生成式人工智能产品应用普及率已超50%，智能算力规模同比增长146%。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/031/326.htm",
+      "publishedAt": "2026-11-24T03:01:05.000Z",
+      "originalTitle": "我国前三季度数字产业收入 32.41 万亿元：智能算力规模同比增长 146%，生成式 AI 产品应用普及率超 50%",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "开源",
+      "title": "蚂蚁开源Ling-3.2-air多模态模型",
+      "summary": "蚂蚁科技集团发布并开源Ling-3.2-air模型，延续原生多模态架构，支持文本、图像和视频输入，拥有1240亿总参数，每个Token激活55亿参数。该模型在语言推理、编程、智能体执行和多模态任务上较上一代均有提升。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/031/426.htm",
+      "publishedAt": "2026-11-24T04:01:00.000Z",
+      "originalTitle": "蚂蚁 Ling-3.2-air 模型发布并开源：原生多模态架构，1240 亿总参数",
+      "score": 9.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "Anthropic推出Claude Ship智能体套件",
+      "summary": "Anthropic宣布推出Claude Ship，这是一套用于自动化代码审查、修复和批准日常代码变更的AI智能体。该产品让Claude从编写代码进一步延伸到帮助开发者判断代码何时可以发布。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "publishedAt": "2026-11-23T22:05:50.000Z",
+      "originalTitle": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "score": 9.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "Ainos获900万美元AI电子鼻追加订单",
+      "summary": "气味感知技术公司Ainos推动AI Nose进入半导体工厂，通过识别空气中化学变化辅助发现泄漏、线缆过热及设备异常。Ainos已与日月光签署900万美元追加订单，追加采购5000套系统，两份协议合计1110万美元、6400套系统。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/031/290.htm",
+      "publishedAt": "2026-11-24T01:40:27.000Z",
+      "originalTitle": "AI 拓展“嗅觉”技能：Ainos 斩获 900 万美元追加订单，电子鼻走进芯片工厂“闻”异常",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "936个智能体12周发布936篇论文",
+      "summary": "来自alphaXiv、斯坦福、MIT等机构的研究团队将936个agent放入同一线上科研社区，自由演化12个星期，由35家人类实验室提供算力和研究方向。这些agent自主完成提出假设、写代码跑实验、分析数据和写论文，共发布936篇研究论文，并在229个聊天室产生9500条讨论。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/512004.html",
+      "publishedAt": "2026-11-23T06:59:38.000Z",
+      "originalTitle": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Qt Creator 21发布强化AI Agent集成",
+      "summary": "Qt团队发布集成开发环境Qt Creator 21，重点加强AI Agent与IDE的协作能力，默认启用Agentic AI Chat集成和MCP服务器，并为MCP服务器默认增加Bearer Token身份验证机制。新版还引入Profile性能分析模式，并新增华为HarmonyOS设备支持。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/031/463.htm",
+      "publishedAt": "2026-11-24T04:35:19.000Z",
+      "originalTitle": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "融资收购",
+      "title": "Supertake融资2000万美元做AI投资组合",
+      "summary": "AI投资初创公司Supertake完成2000万美元融资，其服务让用户把对市场的看法转化为真实投资组合，使用前沿AI模型进行交易。该公司的设想是让用户无需自己选股也能从市场判断中获利。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "publishedAt": "2026-11-23T22:02:05.000Z",
+      "originalTitle": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "score": 6.1,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "黄仁勋在丑闻后回归英伟达",
+      "summary": "包括马斯克在内的多位科技公司CEO庆祝黄仁勋回归英伟达。报道称黄仁勋此前卷入三段婚外情，其中一段涉及一名被指为中国间谍的人士，已引发多项针对国家安全担忧的国会调查。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "publishedAt": "2026-11-23T21:47:41.000Z",
+      "originalTitle": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "score": 5.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "AI数据中心为联合国气候谈判添变数",
+      "summary": "The Verge报道，AI数据中心给混乱的联合国气候谈判增添了新的变数，相关议题涉及AI政策与科学。报道未在开头提供更多具体细节。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "publishedAt": "2026-11-23T21:09:37.000Z",
+      "originalTitle": "AI data centers throw another wrench into chaotic UN climate talks",
+      "score": 5.4,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
