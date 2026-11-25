@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-25T04:29:25.838Z",
+  "date": "2026-11-25",
+  "stats": {
+    "raw": 155,
+    "inWindow": 115,
+    "relevant": 43,
+    "deduped": 43,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3875,
+    "completion_tokens": 747,
+    "total_tokens": 4622,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3875
+  },
+  "items": [
+    {
+      "category": "融资收购",
+      "title": "Anthropic上市不到一周跌破发行价",
+      "summary": "Anthropic于11月19日上市，发行价83美元，首日开盘111.50美元，估值一度超2万亿美元。11月24日收报81.91美元，单日下跌6.54%，盘中最低约76美元。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/031/983.htm",
+      "publishedAt": "2026-11-25T03:29:13.000Z",
+      "originalTitle": "“人类史上最大 IPO”上市不到 1 周就破发，Anthropic 跌破 83 美元发行价",
+      "score": 9,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "黄仁勋重掌英伟达，股价创23年最大单日涨幅",
+      "summary": "受黄仁勋复职CEO影响，英伟达11月23日盘中上涨34.3%，创2003年5月以来最大单日增幅。黄仁勋个人财富单日增加约330亿美元，净资产升至约1431亿美元。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/031/980.htm",
+      "publishedAt": "2026-11-25T03:13:45.000Z",
+      "originalTitle": "黄仁勋重掌英伟达：公司股价创 23 年来最大单日涨幅，身价日增约 330 亿美元跻身全球富豪第 13 位",
+      "score": 8.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "开源",
+      "title": "文心5.5 Flash Preview正式开源",
+      "summary": "11月24日，文心5.5 Flash Preview采用Apache 2.0协议开源，可在Hugging Face、ModelScope获取权重。总参数量2800亿，每Token激活140亿参数，支持最长100万Token上下文。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "publishedAt": "2026-11-24T06:22:28.000Z",
+      "originalTitle": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "OceanBase发布AI数据平台OceanLake",
+      "summary": "OceanBase面向AI Agent新负载发布湖库一体AI数据平台OceanLake，并开源核心AI数据库引擎OceanSeek。正文称AI Agent调用量激增，MCP增长13.36倍。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/qEXNRNufkiFkiUEU9aae?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-24T20:21:09.000Z",
+      "originalTitle": "OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌多模态，就像当年赌分布式一样",
+      "score": 7.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "谷歌发现技术债务致编码智能体分心",
+      "summary": "谷歌分析数亿次操作发现，13%的会话含陈旧TODO/FIXME注释，其中6%触发绕道行为，41%针对已关闭工单。智能体因此执行用户未要求的支线任务。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-24T13:00:00.000Z",
+      "originalTitle": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
+      "score": 4.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "沃尔玛联手Meta在AI助手Muse上卖黑五折扣",
+      "summary": "沃尔玛与Meta合作，让顾客通过Meta的AI助手Muse购买其黑五折扣商品。报道称用AI购物正从未来设想变成企业期待用户去做的事。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "publishedAt": "2026-11-24T21:32:38.000Z",
+      "originalTitle": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "score": 7.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "众擎CEO称人形机器人进入商业化关键阶段",
+      "summary": "众擎机器人创始人兼CEO赵同阳表示，人形机器人正处在从整机量产走向商业化应用的关键阶段，下一阶段比拼多方面工程能力。众擎T800定价18万元起。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/032/062.htm",
+      "publishedAt": "2026-11-25T04:08:36.000Z",
+      "originalTitle": "众擎 CEO 赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力",
+      "score": 8,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "研究",
+      "title": "辛米尔提出端侧超节点，AI效率提升270%",
+      "summary": "辛米尔科技提出端侧超节点Edge SuperPOD，为分散的AI设备搭建协同路网。正文称在同样芯片和模型下，AI有效任务吞吐量提升270%。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "publishedAt": "2026-11-24T06:35:06.000Z",
+      "originalTitle": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "Tidal下月起禁止AI生成音乐",
+      "summary": "Tidal宣布将从下个月开始禁止AI生成的音乐。该消息来自The Verge的AI新闻栏目。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "publishedAt": "2026-11-24T17:17:09.000Z",
+      "originalTitle": "Tidal will start banning AI-generated music next month",
+      "score": 5.4,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "GPT-6模型展现内在蛋白质设计能力",
+      "summary": "GPT-6系列模型仅靠推理和代码即可设计新的蛋白质形状及其化学构建块序列，无需调用专门的生物学模型。内部研究模型在许多蛋白质设计任务上匹配或超越专用模型。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "publishedAt": "2026-11-24T21:02:22.000Z",
+      "originalTitle": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "score": 5.7,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
