@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-26T03:42:45.991Z",
+  "date": "2026-11-26",
+  "stats": {
+    "raw": 155,
+    "inWindow": 115,
+    "relevant": 39,
+    "deduped": 39,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 3908,
+    "completion_tokens": 829,
+    "total_tokens": 4737,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3908
+  },
+  "items": [
+    {
+      "category": "研究",
+      "title": "黎曼猜想AI证明代码精简至7.6万行",
+      "summary": "Anthropic研究员Luke Sernau与同事及Claude共同完成黎曼猜想证明的精简版本，代码量从约1500万行缩减到约76000行，降幅约99.56%。原版需在AWS高配机器上编译21小时，新版在12核、24GB内存机器上1到2小时即可构建。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/032/611.htm",
+      "publishedAt": "2026-11-26T03:01:11.000Z",
+      "originalTitle": "黎曼猜想 AI 证明代码暴砍 99.5%：只剩 7.6 万行，又是 Anthropic",
+      "score": 10.5,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "行业",
+      "title": "标普考虑下调英伟达信用评级",
+      "summary": "标普全球评级正考虑下调英伟达评级，理由是公司管理与治理实践存在担忧。黄仁勋被免职后重新任命，引发对高管监督薄弱、缺乏继任计划及关键人物风险的担忧。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "publishedAt": "2026-11-25T22:44:32.000Z",
+      "originalTitle": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "score": 6.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Amodei称向AI交出人类控制权说法荒谬",
+      "summary": "Anthropic CEO Dario Amodei在X发长文，反驳Anthropic认为应向AI系统交出人类自由意志的说法，称这一说法荒谬。他表示不应牺牲正当性与自决权。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "publishedAt": "2026-11-25T19:44:24.000Z",
+      "originalTitle": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "score": 7.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "OpenAI合并ChatGPT聊天与工作模式",
+      "summary": "OpenAI开始向小部分Pro订阅用户推送ChatGPT聊天与工作模式合并，部分用户担心使用额度受限。OpenAI称多数用户不会更频繁触及额度重置，少数重度用户可能更早触及上限，Instant模型对话不计入用量。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/032/599.htm",
+      "publishedAt": "2026-11-26T02:30:00.000Z",
+      "originalTitle": "OpenAI 开始合并 ChatGPT 聊天 / 工作模式，重度用户可能更早触及限额",
+      "score": 8,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "亚马逊与Meta洽谈解除Muse购物封锁",
+      "summary": "亚马逊与Meta正讨论一项潜在协议，允许Meta的AI智能体Muse直接连接亚马逊商店。两个月前Muse用户发现无法在亚马逊购物并收到错误提示，此次谈判意味着立场反转。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "publishedAt": "2026-11-25T14:10:18.000Z",
+      "originalTitle": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "score": 7.1,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "AMD与中科慧灵验证人形机器人端侧AI",
+      "summary": "AMD与中科慧灵基于锐龙AI嵌入式X100系列，在CASBOT 02上完成本地大模型运行、多模态交互及智能任务调度验证，实现从语言理解到动作执行的闭环。下一代机器人将采用X100与P100构建大脑加小脑协同架构。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/stLpgV1kNHuvr21qRH9x?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-25T19:11:08.000Z",
+      "originalTitle": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构",
+      "score": 9,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "智元灵心平台一年孵化超3万机器人智能体",
+      "summary": "智元推出具身智能生态技术体系AIMA及元苼生态发展计划，未来五年投入不低于20亿元支持生态建设。灵心平台上线一年累计吸引2万以上用户，孵化3万以上机器人智能体，沉淀7万以上平台内容。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/512715.html",
+      "publishedAt": "2026-11-25T14:32:57.000Z",
+      "originalTitle": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "score": 10,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "辛顿回击黄仁勋并谈AI失业副作用",
+      "summary": "辛顿在公开对谈中回击黄仁勋，称2009年就告诉上千名机器学习研究人员做神经网络必须购买英伟达芯片，而黄仁勋2012年才作出该预测。他重申AI存在真实生存风险，并指出大规模失业是利润驱动下的非预期后果。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/6i2DoIJiaTcKyR0UyurQ?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-25T18:45:29.000Z",
+      "originalTitle": "“我比黄仁勋更早看到英伟达的未来”！AI 教父回击黄仁勋，直言大规模失业是 AI 巨头赚钱的副作用",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "具身智能",
+      "title": "业内称具身智能落地需低延迟高鲁棒",
+      "summary": "妙动科技CTO杨硕表示，论文中通过障碍的成功率为70%，而用户想要的是99.999%。复旦大学教授苏昊指出，Astra完成单步动作可能需十几秒，VLA模型响应时间可达十几毫秒。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/pcisT9ByOG238U0WZEGD?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-25T15:54:18.000Z",
+      "originalTitle": "具身智能没有“速胜论”：从 70% 到 99.999%，机器人走出实验室还有多远",
+      "score": 7.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "AI影视产业在北京海淀一带聚集",
+      "summary": "2026年前10个月全国已上线近55万部微短剧，是2025年全年的近17倍，其中超过94%为AI剧，AI微短剧2026年预估市场规模达400亿元。国内首部获公映许可证的AI院线长片《三星堆：未来往事》于今年10月上映。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/512828.html",
+      "publishedAt": "2026-11-26T02:53:14.000Z",
+      "originalTitle": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
