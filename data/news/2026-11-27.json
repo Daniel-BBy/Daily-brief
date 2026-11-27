@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-27T03:43:29.716Z",
+  "date": "2026-11-27",
+  "stats": {
+    "raw": 155,
+    "inWindow": 108,
+    "relevant": 24,
+    "deduped": 24,
+    "feeds": [
+      "IT之家:60",
+      "量子位:10",
+      "InfoQ中文:20",
+      "新浪科技:15",
+      "TechCrunch:20",
+      "The Verge:10",
+      "Hacker News:20"
+    ]
+  },
+  "usage": {
+    "prompt_tokens": 4511,
+    "completion_tokens": 843,
+    "total_tokens": 5354,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4511
+  },
+  "items": [
+    {
+      "category": "行业",
+      "title": "DeepMind让AI智能体自主运行Gemini实验",
+      "summary": "Google DeepMind研究副总裁Koray Kavukcuoglu在公司播客中表示，AI智能体现在可以自主运行实验，用于下一代Gemini模型。他将此描述为实验室战略转变的一部分，不再为AlphaFold、核聚变等专门项目分设团队，而是依赖单一通用算法。",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "publishedAt": "2026-11-27T00:03:18.000Z",
+      "originalTitle": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "score": 10.2,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "Anthropic上市后破发，Claude Code骨干流向OpenAI",
+      "summary": "Anthropic于11月19日上市，11月24日股价下跌12.6%收于76.60美元，跌破83美元发行价，较首日开盘价111.50美元下跌约31%。Claude Code开发工程师Thariq Shihipar、桌面版创建者Anthony Morris等核心开发者被曝加入OpenAI。",
+      "source": "InfoQ中文",
+      "sourceId": "infoq",
+      "url": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+      "publishedAt": "2026-11-26T15:35:51.000Z",
+      "originalTitle": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "政策监管",
+      "title": "英伟达暂停向东南亚发货服务器",
+      "summary": "据WSJ报道，英伟达已要求戴尔、超微等制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚发运服务器，暂停期限未定。英伟达正在评估区域合作伙伴是否满足美国出口要求。",
+      "source": "TechCrunch",
+      "sourceId": "tc",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
+      "originalTitle": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "score": 5.6,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "行业",
+      "title": "微软AI负责人警告正跨越AI危险门槛",
+      "summary": "微软AI负责人穆斯塔法·苏莱曼11月25日在X发文，警告AI行业“正在跨越一个门槛”，即AI能力即将越过人类能有效监督、控制和部署的边界。他主张在实现真正“对齐”之前必须优先做到“遏制”，确保人类始终能限制模型能力。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/033/191.htm",
+      "publishedAt": "2026-11-27T01:59:29.000Z",
+      "originalTitle": "微软 AI 负责人警告：我们正跨越 AI 危险门槛，安全和对齐是当前最重要任务",
+      "score": 6,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "政策监管",
+      "title": "42州总检察长试图阻止Character.AI出售用户聊天",
+      "summary": "42个州的总检察长正试图阻止Character.AI出售用户聊天记录。该消息来自The Verge的政策与AI新闻栏目。",
+      "source": "The Verge",
+      "sourceId": "verge",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "publishedAt": "2026-11-26T09:54:40.000Z",
+      "originalTitle": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "score": 5.4,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "融资收购",
+      "title": "东京电力拟向AI基础设施投资超10万亿日元",
+      "summary": "《日本经济新闻》报道，东京电力公司拟在2035财年内向人工智能基础设施领域投资超10万亿日元，约合4189.3亿元人民币。其中4.9万亿日元用于电网扩建，2.5万亿日元用于核电厂扩建，公司计划向软银等投资者寻求支持。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/033/170.htm",
+      "publishedAt": "2026-11-27T01:13:47.000Z",
+      "originalTitle": "消息称东京电力公司拟向人工智能基础设施领域投资超 10 万亿日元",
+      "score": 8.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "研究",
+      "title": "20个AI智能体组队优化搜索引擎超越ClickBench公开成绩",
+      "summary": "AI初创公司TabbyML将20个AI智能体组成的工程团队投入开源搜索引擎Quickwit，让其自行寻找性能瓶颈、提出方案、设计实验并互相审查代码。在ClickBench数据湖类别同口径热查询评分对比中，AI优化的Quickwit超越了此前所有公开成绩。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/513053.html",
+      "publishedAt": "2026-11-27T01:16:10.000Z",
+      "originalTitle": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "score": 7.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "Sand.ai开源480B视频模型MAGI-2登顶图生视频榜",
+      "summary": "视频初创公司Sand.ai发布480B视频模型MAGI-2，在Artificial Analysis图生视频榜单中冲到全球第一。其每秒定价为同级别头部闭源模型的十分之一，支持最高两万字符脚本解析与毫秒级切镜，可混合最多20份图片、视频和音频素材。",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "publishedAt": "2026-11-26T06:41:23.000Z",
+      "originalTitle": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "score": 6.5,
+      "bodyMethod": "paragraphs"
+    },
+    {
+      "category": "产品发布",
+      "title": "豆包工作独家接入剪映官方插件",
+      "summary": "豆包官方宣布豆包工作独家接入剪映官方插件，支持一句话剪辑与多轨编辑。用户可用一句话描述需求并调用剪映完成剪辑，还可通过对话继续修改，或打开多轨草稿细调。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/033/208.htm",
+      "publishedAt": "2026-11-27T02:33:51.000Z",
+      "originalTitle": "一句话就能剪辑视频了，豆包工作独家接入剪映官方插件",
+      "score": 6,
+      "bodyMethod": "rss"
+    },
+    {
+      "category": "产品发布",
+      "title": "小米AI眼镜2代或12月中旬与小米18同步发布",
+      "summary": "《科创板日报》获悉，小米AI眼镜2代或于12月中旬与小米18标准版手机同步发布并当天开售。产品重40g，含电致变色镜片版本与显示版本，搭载12MP第一人称相机和开放式耳机。",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "url": "https://www.ithome.com/1/033/203.htm",
+      "publishedAt": "2026-11-27T02:21:57.000Z",
+      "originalTitle": "与小米 18 标准版同步发布，消息称小米 AI 眼镜 2 代下月中旬上市",
+      "score": 7,
+      "bodyMethod": "paragraphs"
+    }
+  ]
+}
